@@ -1,0 +1,13 @@
+NutrientID,Nutrient,Description,ImportancetoPlants
+1,Nitrogen (N),"Essential for plant growth, promotes lush, green foliage.","Critical for leaf and stem development, helps plants grow rapidly and improves overall health."
+2,Phosphorus (P),"Vital for energy transfer and photosynthesis, helps in root and flower development.","Supports strong root systems, improves flowering and fruit production."
+3,Potassium (K),"Helps with water regulation, disease resistance, and overall plant vigor.","Increases drought tolerance, improves fruit quality, and enhances overall resistance to disease."
+4,Calcium (Ca),"Strengthens cell walls, improves soil structure and aids in nutrient uptake.","Promotes strong cell walls and healthy plant structure, preventing diseases and growth disorders."
+5,Magnesium (Mg),"Central to photosynthesis, as it is part of the chlorophyll molecule.","Supports healthy leaf color and photosynthesis, and helps with the formation of seeds and fruit."
+6,Sulfur (S),"Key component of some amino acids and vitamins, supports overall plant metabolism.","Necessary for protein synthesis and enzyme function, promotes healthy growth and disease resistance."
+7,Iron (Fe),Essential for the formation of chlorophyll and acts as a catalyst for several biochemical processes.,"Supports green leaves, plays a role in photosynthesis, and is crucial for healthy root and shoot growth."
+8,Zinc (Zn),"Important for hormone production and enzyme function, especially in the production of chlorophyll.","Aids in enzyme function and overall growth, supports better seed production and root development."
+9,Copper (Cu),"Required for photosynthesis, respiration, and lignin formation in plant cell walls.","Supports reproductive growth, helps with disease resistance, and ensures proper flower and fruit development."
+10,Manganese (Mn),"Involved in photosynthesis, respiration, and nitrogen metabolism.","Helps with chlorophyll production and nitrogen assimilation, promotes healthy leaves and root growth."
+11,Boron (B),"Essential for cell wall formation and reproductive growth, affects sugar transport and metabolism.","Promotes healthy cell wall structure, flowering, fruit set, and seed development."
+12,Molybdenum (Mo),"Necessary for nitrogen fixation and utilization, and the formation of enzymes involved in plant metabolism.","Helps plants use nitrogen effectively, crucial for legumes and nitrogen-fixing plants."

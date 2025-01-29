@@ -1,0 +1,3799 @@
+IngredientID,IngredientCategoryID,IngredientName,SpeciesID,IngredientCutID,PlantID,PlantVarietyID
+1,17,Agrimony,,,,
+2,17,Ajwain,,,,
+3,17,Albizia,,,,
+4,17,Alkanet,,,,
+5,17,Allspice,,,,
+6,17,Aloe Vera,,,,
+7,17,Amchur (Dried Mango Powder),,,63,
+8,17,Angelica,,,,
+9,17,Anise Hyssop,,,,
+10,17,Annatto,,,,
+11,17,Aronia Berry,,,,
+12,17,Asafoetida,,,,
+13,17,Ashwagandha,,,,
+14,17,Astragalus,,,,
+15,17,Bael Fruit,,,,
+16,17,Baikal Skullcap,,,,
+18,17,Bay Leaves,,,,
+19,17,Betony,,,,
+20,17,Bistort,,,,
+21,17,Boldo,,,,
+22,17,Boneset,,,,
+23,17,Borage,,,,
+24,17,Borututu,,,,
+25,17,Burnet,,,,
+26,17,Calamus,,,,
+27,17,Calendula,,,,
+28,17,Caraway,,,,
+29,17,Cascara Sagrada,,,,
+30,17,Catnip,,,,
+32,17,Chamomile,,,,
+33,17,Chaparral,,,,
+34,17,Chervil,,,,
+35,17,Chickweed,,,,
+36,17,Chicory,,,,
+37,17,Chinese Skullcap,,,,
+38,17,Chives,,,,
+39,17,Chrysanthemum,,,,
+40,17,Cicely,,,,
+44,17,Clivers,,,,
+45,17,Cloves,,,,
+46,17,Codonopsis,,,,
+47,17,Coltsfoot,,,,
+48,17,Comfrey,,,,
+49,17,Condurango,,,,
+51,17,Costmary,,,,
+52,17,Costus,,,,
+53,17,Cumin,,,,
+54,17,Damiana,,,,
+55,17,Deer Tongue,,,,
+57,17,Dittany of Crete,,,,
+58,17,Dong Quai,,,,
+59,17,Echinacea,,,,
+60,17,Elecampane,,,,
+61,17,Epazote,,,,
+62,17,Eucalyptus,,,,
+63,17,False Unicorn Root,,,,
+65,17,Fenugreek,,,,
+66,17,Feverfew,,,,
+67,17,Galangal,,,,
+70,17,Goldenrod,,,,
+71,17,Grains of Paradise,,,,
+72,17,Gravel Root,,,,
+73,17,Grindelia,,,,
+74,17,Guarana,,,,
+75,17,Hawthorn,,,,
+76,17,Ho Shou Wu,,,,
+77,17,Honeybush,,,,
+78,17,Hoodia,,,,
+79,17,Hops,,,,
+80,17,Horehound,,,,
+81,17,Horsetail,,,,
+82,17,Hyssop,,,,
+83,17,Iceland Moss,,,,
+84,17,Indian Pipe,,,,
+85,17,Irish Moss,,,,
+86,17,Jiaogulan,,,,
+87,17,Jujube,,,,
+88,17,Kava Kava,,,,
+89,17,Kelp,,,,
+90,17,Kinnikinnick,,,,
+91,17,Kudzu,,,,
+93,17,Lemon Balm,,,,
+95,17,Lemon Catnip,,,,
+96,17,Lemon Gem Marigold,,,,
+97,17,Lemon Grass,,,,
+98,17,Lemon Ironbark,,,,
+100,17,Lemon Myrtle,,,,
+101,17,Lemon Savory,,,,
+103,17,Lemon Scented Thyme,,,,
+104,17,Lemon Thyme,,,,
+105,17,Lemon Verbena,,,,
+107,17,Lemonade Berry,,,,
+108,17,Lemongrass,,,,
+109,17,Lemonwood,,,,
+110,17,Licorice,,,,
+111,17,Licorice Root,,,,
+112,17,Linden Flower,,,,
+113,17,Lobelia,,,,
+114,17,Lovage,,,,
+115,17,Luo Han Guo,,,,
+117,17,Maral Root,,,,
+118,17,Marigold (Calendula),,,,
+119,17,Marjoram,,,,
+120,17,Marshmallow Root,,,,
+121,17,Meadowsweet,,,,
+122,13,Mexican Mint Marigold,,,,
+124,17,Motherwort,,,,
+125,17,Mugwort,,,,
+126,17,Muira Puama,,,,
+127,17,Mullein,,,,
+128,17,Neem,,,,
+129,17,Nettle,,,,
+130,17,Noni,,,,
+131,2,Nutmeg,,,106,0
+134,17,Orris Root,,,,
+135,17,Osha Root,,,,
+137,17,Passion Flower,,,,
+138,17,Pau DArco,,,,
+139,17,Pennyroyal,,,,
+141,17,Perilla,,,,
+142,17,Pipsissewa,,,,
+143,17,Prickly Ash,,,,
+144,17,Quassia,,,,
+145,17,Red Clover,,,,
+146,17,Red Root,,,,
+147,17,Rehmannia,,,,
+148,17,Rock Rose,,,,
+149,17,Rosehip,,,,
+150,17,Rosemary,,,,
+153,17,Salad Burnet,,,,
+154,17,Sassafras,,,,
+155,17,Savory,,,,
+156,17,Saw Palmetto,,,,
+157,17,Scented Geraniums,,,,
+158,17,Sea Buckthorn,,,,
+159,17,Self-Heal,,,,
+160,17,Senega Root,,,,
+161,17,Sheep Sorrel,,,,
+162,17,Shepherds Purse,,,,
+163,17,Shilajit,,,,
+164,17,Slippery Elm,,,,
+165,17,Soapwort,,,,
+166,17,Solomons Seal,,,,
+167,17,Sorrel,,,,
+168,17,Southernwood,,,,
+169,17,Spilanthes,,,,
+170,17,St. Johns Wort,,,,
+171,17,Star Anise,,,,
+172,17,Stevia,,,,
+173,17,Suma Root,,,,
+174,17,Summer Savory,,,,
+175,17,Sweet Annie,,,,
+176,17,Sweet Cicely,,,,
+177,17,Sweet Fern,,,,
+178,17,Sweet Woodruff,,,,
+179,17,Tagetes lucida (Mexican Tarragon),,,,
+180,17,Tamanu Oil,,,,
+181,17,Tansy,,,,
+182,17,Tarragon,,,,
+183,17,Teasel Root,,,,
+184,17,Thyme,,,,
+185,17,Thyme (Creeping),,,,
+186,17,Tribulus Terrestris,,,,
+189,17,Uva Ursi,,,,
+190,17,Valerian,,,,
+192,17,Vervain,,,,
+194,17,Vitex (Chaste Tree),,,,
+195,17,White Horehound,,,,
+196,17,White Mulberry,,,,
+198,17,White Willow,,,,
+199,17,Wild Dagga,,,,
+200,17,Wild Indigo,,,,
+201,17,Wild Lettuce,,,2,512
+203,17,Wintergreen,,,,
+204,17,Witch Hazel,,,,
+205,17,Wood Betony,,,,
+206,17,Wood Sorrel,,,,
+207,17,Wormwood,,,,
+208,17,Wormwood (Artemisia absinthium),,,,
+209,17,Yacon Root,,,,
+210,17,Yarrow,,,,
+211,17,Yellow Dock,,,,
+212,17,Yerba Buena,,,,
+213,17,Yohimbe,,,,
+214,17,Yucca,,,,
+215,17,Zedoary,,,,
+216,17,Zigadenus (Death Camas),,,,
+217,17,Ziziphus (Jujube),,,,
+218,17,Zornia (Maconha Brava),,,,
+219,3,Shrimp,,,,
+220,3,Lobster,,,,
+221,3,Crab,,,,
+222,3,Scallop,,,,
+223,3,Mussel,,,,
+224,3,Clam,,,,
+225,3,Abalone,,,,
+226,3,Octopus,,,,
+227,3,Crayfish,,,,
+228,3,Prawn,,,,
+229,3,Snail,,,,
+230,3,Squid,,,,
+231,3,Oyster,,,,
+232,3,Whelk,,,,
+233,3,Cuttlefish,,,,
+234,3,Mantis Shrimp,,,,
+235,3,Cockle,,,,
+236,3,Horn Snail,,,,
+237,3,Horse Conch,,,,
+238,3,Quahog,,,,
+239,3,Knobbed Whelk,,,,
+240,3,Winkle,,,,
+241,3,Sea Urchin,,,,
+242,3,Geoduck,,,,
+243,3,Limpet,,,,
+244,3,Periwinkle,,,,
+245,3,Razor Clam,,,,
+246,3,Barnacles,,,,
+247,3,Krill,,,,
+248,3,Langoustine,,,,
+249,3,Sand Flea,,,,
+250,3,Soft-Shell Crab,,,,
+251,4,Salmon,,,,
+252,4,Tuna,,,,
+253,4,Trout,,,,
+254,4,Bass,,,,
+255,4,Cod,,,,
+256,4,Haddock,,,,
+257,4,Hake,,,,
+258,4,Halibut,,,,
+259,4,Mackerel,,,,
+260,4,Sardines,,,,
+261,4,Anchovies,,,,
+262,4,Catfish,,,,
+263,4,Perch,,,,
+264,4,Snapper,,,,
+265,4,Grouper,,,,
+266,4,Flounder,,,,
+267,4,Sole,,,,
+268,4,Mahi-Mahi,,,,
+269,4,Tilapia,,,,
+270,4,Carp,,,,
+271,4,Barramundi,,,,
+272,4,Pike,,,,
+273,4,Whitefish,,,,
+274,4,Arctic Char,,,,
+275,4,Swordfish,,,,
+276,4,Marlin,,,,
+277,4,Shark,,,,
+278,4,Sea Bass,,,,
+279,4,Rockfish,,,,
+280,4,Redfish,,,,
+281,4,Pollock,,,,
+282,4,Tilefish,,,,
+283,4,Eel,,,,
+284,4,Monkfish,,,,
+285,4,Wahoo,,,,
+286,4,Amberjack,,,,
+287,4,Bluefish,,,,
+288,4,Yellowtail,,,,
+289,4,Mullet,,,,
+290,4,Cobia,,,,
+291,4,Sea Bream,,,,
+292,4,Barracuda,,,,
+293,4,Porgy,,,,
+294,4,Triggerfish,,,,
+295,4,Surgeonfish,,,,
+296,4,Snook,,,,
+297,4,Gulf Menhaden,,,,
+298,4,Milkfish,,,,
+299,4,Pompano,,,,
+300,4,Black Drum,,,,
+301,4,Croaker,,,,
+302,4,Atlantic Croaker,,,,
+303,4,Weakfish,,,,
+304,4,Spanish Mackerel,,,,
+305,4,King Mackerel,,,,
+306,4,Corvina,,,,
+307,4,Jackfish,,,,
+308,4,Bonito,,,,
+309,4,Yellowfin Grouper,,,,
+310,7,Acorn Squash,,,,
+311,7,Ahipa,,,,
+312,7,Amaranth,,,,
+313,7,American Groundnut,,,,
+314,7,Aonori,,,,
+315,7,Arame,,,,
+316,7,Arracacha,,,,
+317,7,Arrowroot,,,,
+319,7,Arugula,,,2,527
+320,7,Asparagus,,,,
+321,7,Adzuki Bean,,,,
+322,7,Bamboo Shoots,,,,
+323,7,Banana Squash,,,,
+324,7,Dark Red Beet (Most Common),,,19,1041
+325,7,Belgian Endive,,,2,532
+327,7,Black Eyed Pea,,,,
+329,7,Black Salsify,,,,
+330,7,Bok Choy,,,,
+331,7,Broadleaf Arrowhead,,,,
+332,7,Broccoflower,,,,
+333,7,Calabrese Broccoli,,,4,575
+334,7,Broccolini,,,4,580
+336,7,Burdock Roots,,,,
+337,7,Buttercup Squash,,,,
+340,7,Cactus,,,,
+341,7,Camas,,,,
+342,7,Canna,,,,
+343,7,Caper,,,,
+344,7,Cardoon,,,,
+345,7,Nantes (most common),,,3,547
+347,7,Catsear,,,,
+348,7,Cauliflower,,,,
+349,7,Celeriac,,,,
+350,7,Celery,,,,
+351,7,Celtuce,,,2,515
+352,7,Chaya,,,,
+353,7,Chayote Squash,,,,
+355,7,Chick Pea,,,,
+356,7,Chickweed,,,,
+357,7,Chicory,,,,
+358,7,Chives,,,,
+359,7,Chrysanthemum,,,,
+360,7,Collard Greens,,,,
+361,7,Common Beans,,,,
+362,7,Crookneck Squash,,,,
+363,7,Common Purslane,,,2,528
+364,7,Courgette Flowers,,,,
+365,7,Cress,,,,
+366,7,Giant Cuccumber (Most Common),,,5,366
+367,7,Dabberlocks,,,,
+369,7,Dandelion,,,,
+370,7,Delicata Squash,,,,
+371,7,Daylily,,,,
+373,7,Dolichos,,,,
+374,7,Drumstick,,,,
+375,7,Dulse,,,,
+376,7,Earthnut Pea,,,,
+380,7,Endive,,,2,517
+381,7,Ensete,,,,
+382,7,Fat Hen,,,,
+383,7,Fava Bean,,,,
+385,7,Fiddlehead Green,,,,
+388,7,Galangal,,,,
+389,7,Garbanzo,,,,
+390,7,Garden Rocket,,,,
+394,7,Golden Samphire,,,,
+395,7,Good King Henry,,,,
+396,7,Greater Plantain,,,,
+397,7,Green Beans,,,,
+399,7,Guar,,,,
+400,13,Parsley Flowers,,,26,
+401,7,Hijiki,,,,
+402,7,Horse Gram,,,,
+403,28,Horseradish,,,160,0
+404,7,Indian Pea,,,,
+405,7,Curly Kale (Most Common),,,7,658
+407,7,Komatsuna,,,,
+408,7,Kombu,,,,
+409,7,Kurrat,,,,
+410,7,Lagos Bologi,,,,
+411,7,Land Cress,,,,
+412,7,Laver,,,,
+414,7,Lemongrass,,,,
+415,19,Red Lentil,,,12,904
+416,7,Little Gem,,,2,501
+418,7,Lotus Root,,,,
+419,7,Malabar Spinach,,,6,640
+420,7,Mangetout,,,,
+421,7,Manoa,,,,
+422,7,Mashua,,,,
+423,7,Mulukhiyah,,,,
+424,7,Mizuna,,,2,524
+426,7,Moth Bean,,,,
+427,7,Mozuku,,,,
+430,7,Mustard Greens,,,,
+432,7,New Zealand Spinach,,,6,639
+433,7,Nopal,,,,
+434,7,Nori,,,,
+435,7,Ogonori,,,,
+438,7,Orache,,,6,652
+439,7,Pak Choy,,,,
+440,7,Paracress,,,,
+442,7,Peas,,,,
+444,7,Pigeon Pea,,,,
+445,7,Pignut,,,,
+447,7,Prussian Asparagus,,,,
+448,7,Prairie Turnip,,,,
+450,7,Radicchio,,,2,510
+452,7,Ramp,,,,
+453,7,Rapini,,,,
+454,7,Red Leaf Lettuce,,,2,505
+455,7,Ricebean,,,,
+456,7,Runner Bean,,,,
+457,7,Rutabaga,,,,
+458,7,Savoy,,,6,634
+459,7,Salsify,,,,
+460,7,Samphire,,,,
+461,7,Scorzonera,,,,
+462,7,Sculpit,,,,
+463,7,Sea Beet,,,,
+465,7,Sea Kale,,,7,680
+467,7,Shallot,,,,
+468,7,Sierra Leone Bologi,,,,
+469,7,Skirret,,,,
+470,7,Snap Pea,,,,
+471,7,Snow Pea,,,,
+472,7,Soko,,,,
+476,7,Flat Leaf Spinach (Most Common),,,6,656
+478,7,Scallion,,,,
+479,7,Squash Blossoms,,,,
+480,7,Summer Squash,,,,
+481,7,Swede,,,,
+484,7,Tarwi,,,,
+485,7,Tatsoi,,,,
+486,7,Tepary Bean,,,,
+487,7,Tigernut,,,,
+488,7,Tomatillo,,,,
+489,7,Tomato,,,,
+492,7,Purple Top White Globe,,,20,1077
+493,7,Urad Bean,,,,
+494,7,Ulluco,,,,
+495,7,Wasabi,,,148,
+496,7,Water Chestnut,,,,
+497,7,Water Caltrop,,,,
+498,7,Water Spinach,,,6,657
+499,7,Watercress,,,2,520
+501,7,Wheatgrass,,,,
+503,7,Winged Bean,,,,
+504,7,Winter Squash,,,,
+506,7,Yao Choy,,,,
+507,7,Yardlong Bean,,,,
+508,7,Yarrow,,,,
+509,7,Yuca Root,,,,
+512,8,ACAI berry,,,,
+513,8,AGARITA berry,,,,
+514,8,AMLA berry,,,,
+515,8,BANEBERRY,,,,
+516,8,BARBADOS berry,,,,
+517,8,BARBERRY,,,,
+518,8,BEARBERRY,,,,
+519,8,BITTERSWEET,,,,
+522,8,BLACK MULBERRY,,,,
+523,8,BOYSENBERRY,,,,
+524,8,BUFFALO berry,,,,
+525,8,BUNCHBERRY,,,,
+526,8,CAPERBERRY,,,,
+527,8,CHOKEBERRY (ARONIA),,,,
+529,8,CLOUDBERRY,,,,
+530,8,COWBERRY,,,,
+531,8,CRANBERRY,,,,
+532,8,CURRANT,,,,
+533,8,DEWBERRY,,,,
+534,8,ELDERBERRY,,,,
+535,8,FARKLEBERRY,,,,
+537,8,GOJI BERRY,,,,
+538,8,GOOSEBERRY,,,,
+540,8,HACKBERRY,,,,
+541,8,HOLLY BERRY,,,,
+542,8,HUCKLEBERRY,,,,
+544,8,IVY BERRY,,,,
+545,8,JUNEBERRY,,,,
+546,8,JUNIPER BERRY,,,,
+547,8,LINGONBERRY,,,,
+548,8,LOGANBERRY,,,,
+549,8,MISTLETOE BERRY,,,,
+550,8,Chantenay Red Core,,,3,550
+551,12,Oregon Grape,,,65,
+552,8,PERSIMMON,,,,
+553,8,POKEBERRY,,,,
+555,8,RED MULBERRY,,,,
+556,8,SALMONBERRY,,,,
+557,8,SEABERRY (SEA BUCKHORN),,,,
+558,8,SNOWBERRY,,,,
+560,8,SUGARBERRY,,,,
+562,8,THIMBLEBERRY,,,,
+563,8,WHITE MULBERRY,,,,
+564,8,WINEBERRY,,,,
+565,8,WINTERGREEN,,,,
+566,8,YEW BERRY,,,,
+567,8,YOUNGBERRY,,,,
+568,11,Adzuki,,,,
+569,11,Black,,,,
+570,11,Black-Eyed Peas,,,,
+571,11,Butter,,,,
+572,11,Cannellini,,,,
+573,19,Kabuli Chickpea (Most Common),,,13,911
+574,11,Cranberry,,,,
+575,11,Fava (Broad),,,,
+576,11,Great Northern,,,,
+578,19,Green Lentil,,,12,903
+581,11,Navy,,,,
+582,11,Pinto,,,,
+583,11,Red Split Peas,,,,
+585,11,Yellow Eye,,,,
+586,11,Anasazi,,,,
+587,11,Borlotti,,,,
+588,11,Calypso,,,,
+590,11,Dutch Brown,,,,
+591,11,Flageolet,,,,
+592,11,Jacobs Cattle,,,,
+593,11,Mayocoba,,,,
+594,11,Orca -Rocquencourt,,,,
+595,11,Pink,,,,
+596,11,Soldier,,,,
+597,11,Tongues of Fire,,,,
+598,12,Honeycrisp,,,12,684
+599,12,Apricot,,,,
+600,12,Avocado,,,,
+601,12,Gros Michel,,,10,837
+604,12,Boysenberry,,,,
+607,12,Clementine,,,9,802
+608,12,Coconut,,,,
+609,12,Cranberry,,,,
+610,12,Currant,,,,
+611,12,Date,,,115,0
+612,12,Dragon Fruit,,,,
+613,12,Elderberry,,,,
+616,12,Grapefruit,,,,
+618,26,Honeydew Melon,,,32,2674
+620,12,Kumquat,,,,
+621,12,Lemon,,,,
+622,12,Lime,,,,
+623,12,Lychee,,,,
+625,12,Nectarine,,,,
+626,12,Navel Orange,,,12,796
+631,12,Persimmon,,,,
+636,12,Redcurrant,,,,
+639,12,Tangerine,,,9,803
+640,12,Ugli Fruit,,,9,834
+642,13,Borage Flowers,,,,
+643,13,Calendula (Pot Marigold),,,,
+644,13,Chamomile,,,,
+645,13,Chive Blossoms,,,,
+646,13,Dandelion,,,,
+647,13,Daylily,,,,
+648,13,Hibiscus,,,,
+649,13,Honeysuckle,,,,
+650,13,Jasmine,,,,
+652,13,Lilac,,,,
+653,13,Nasturtium,,,145,
+654,13,Pansy,,,,
+655,13,Rose,,,,
+656,13,Squash Blossoms,,,,
+657,13,Sunflower,,,,
+658,13,Violet,,,,
+659,13,Dianthus (Carnation),,,,
+660,13,Begonia,,,,
+661,13,Fuchsia,,,,
+662,13,Marigold,,,,
+663,13,Chrysanthemum,,,,
+664,13,Safflower,,,,
+665,13,Snapdragon,,,,
+666,13,Tulip,,,,
+667,13,Hollyhock,,,,
+668,13,Impatiens,,,,
+669,13,Viola,,,,
+670,13,Arugula Flowers,,,,
+671,13,Basil Flowers,,,23,
+672,13,Chamomile,,,,
+673,13,Cilantro/Coriander Flowers,,,98,0
+674,13,Dill Flowers,,,96,0
+675,13,Fennel Flowers,,,116,0
+676,13,Rosemary Flowers,,,,
+677,13,Sage Flowers,,,97,
+678,13,Thyme Flowers,,,,
+679,14,Nori,,,,
+680,14,Spirulina,,,,
+681,14,Chlorella,,,,
+682,14,Dulse,,,,
+683,14,Kelp,,,,
+684,14,Wakame,,,,
+685,14,Arame,,,,
+686,14,Hijiki,,,,
+687,14,Agar-Agar,,,,
+688,14,Irish Moss,,,,
+689,14,Sea Lettuce,,,,
+690,14,Sargassum,,,,
+691,14,Nori,,,,
+692,14,Spirulina,,,,
+693,14,Chlorella,,,,
+694,14,Dulse,,,,
+695,14,Kelp,,,,
+696,14,Wakame,,,,
+697,14,Arame,,,,
+698,14,Hijiki,,,,
+699,14,Agar-Agar,,,,
+700,14,Irish Moss,,,,
+702,14,Sargassum,,,,
+703,15,Baking Soda (Sodium Bicarbonate),,,,
+704,15,Baking Powder,,,,
+705,15,Yeast,,,,
+706,15,Citric Acid,,,,
+707,15,Vinegar (Acetic Acid),,,,
+708,15,Lemon Juice (Citric Acid),,,,
+709,15,Tartaric Acid,,,,
+710,15,Lactic Acid,,,,
+711,15,Malic Acid,,,,
+712,15,Ascorbic Acid (Vitamin C),,,,
+713,15,Calcium Chloride,,,,
+714,15,Potassium Sorbate,,,,
+715,15,Sodium Benzoate,,,,
+716,15,Monosodium Glutamate (MSG),,,,
+717,15,Soy Lecithin,,,84,0
+718,15,Carrageenan,,,,
+719,15,Xanthan Gum,,,,
+720,15,Guar Gum,,,,
+721,15,Gelatin,,,,
+722,15,Pectin,,,,
+723,15,Calcium Carbonate,,,,
+724,15,Calcium Sulfate,,,,
+725,15,Magnesium Sulfate,,,,
+726,15,Sulfur Dioxide,,,,
+727,15,Nitrites and Nitrates,,,,
+728,15,Sodium Erythorbate,,,,
+729,15,Sodium Citrate,,,,
+730,15,Sodium Alginate,,,,
+731,15,Calcium Alginate,,,,
+732,15,Potassium Chloride,,,,
+733,15,Cornstarch,,,,
+734,15,Arrowroot,,,,
+737,15,Maltodextrin,,,,
+738,15,Lecithin,,,,
+739,15,Polydextrose,,,,
+740,15,BHA/BHT (Butylated Hydroxyanisole/Butylated Hydroxytoluene),,,,
+741,15,Propylene Glycol,,,,
+742,15,Polysorbate 80,,,,
+743,15,Sorbic Acid,,,,
+744,15,Sodium Acid Pyrophosphate,,,,
+745,15,Sodium Bisulfite,,,,
+746,15,Sodium Metabisulfite,,,,
+747,15,Sodium Nitrite,,,,
+748,15,Sodium Nitrate,,,,
+749,15,Sodium Sulfite,,,,
+750,15,Alum (Potassium Aluminum Sulfate),,,,
+751,18,Granulated Sugar,,,112,0
+752,18,Brown Sugar (light and dark),,,112,0
+753,18,Powdered Sugar (Confectioners),,,112,0
+754,18,Caster Sugar (Superfine),,,,
+755,18,Turbinado Sugar (Raw),,,,
+756,18,Demerara Sugar,,,,
+757,18,Muscovado Sugar,,,,
+758,18,Coconut Sugar,,,121,
+759,18,Maple Syrup,,,,
+760,12,Date Palm Sugar,,,115,0
+761,18,Agave Nectar,,,114,0
+762,18,Honey,,,,
+763,18,Molasses,,,,
+764,23,Barley Malt Syrup,,,37,
+765,18,Corn Syrup,,,18,
+766,18,Rice Syrup,,,17,
+767,18,High-Fructose Corn Syrup (HFCS),,,18,
+768,18,Golden Syrup,,,,
+769,18,Treacle,,,,
+770,16,Kosher Salt,,,,
+771,16,Sea Salt,,,,
+772,16,Himalayan Pink Salt,,,,
+773,16,Fleur de Sel,,,,
+774,16,Sel Gris (Gray Salt),,,,
+775,16,Celtic Sea Salt,,,,
+776,16,Smoked Salt,,,,
+777,16,Black Salt (Kala Namak),,,,
+778,16,Red Hawaiian Salt,,,,
+779,16,Flake Salt,,,,
+780,16,Cyprus Flake Salt,,,,
+781,16,Maldon Salt,,,,
+782,16,Truffle Salt,,,,
+783,16,Garlic Salt,,,163,
+784,16,Onion Salt,,,161,
+785,16,Smoked Paprika Salt,,,,
+786,16,Lemon Salt,,,,
+787,16,Herb-Infused Salt,,,,
+788,16,Low-Sodium Salt,,,,
+789,16,Kosher Salt,,,,
+790,16,Sea Salt,,,,
+791,16,Himalayan Pink Salt,,,,
+792,16,Fleur de Sel,,,,
+793,16,Sel Gris (Gray Salt),,,,
+794,16,Celtic Sea Salt,,,,
+795,16,Smoked Salt,,,,
+796,16,Black Salt (Kala Namak),,,,
+797,16,Red Hawaiian Salt,,,,
+798,16,Flake Salt,,,,
+799,16,Cyprus Flake Salt,,,,
+800,16,Maldon Salt,,,,
+801,16,Truffle Salt,,,,
+804,16,Smoked Paprika Salt,,,,
+805,16,Lemon Salt,,,,
+806,16,Herb-Infused Salt,,,,
+807,16,Low-Sodium Salt,,,,
+808,1,Agnolotti,,,,
+809,1,Anelli,,,,
+810,1,Bucatini,,,,
+811,1,Calamarata,,,,
+812,1,Cannelloni,,,,
+813,1,Casarecce,,,,
+814,1,Cappelletti,,,,
+815,1,Cavatappi,,,,
+816,1,Cencioni,,,,
+817,1,Conchiglie (Shells),,,,
+818,1,Corzetti,,,,
+819,1,Creste di Gallo,,,,
+820,1,Ditali,,,,
+821,1,Farfalline,,,,
+822,1,Fiori,,,,
+823,1,Garganelli,,,,
+824,1,Gemelli,,,,
+825,1,Lumache,,,,
+826,1,Mafalda,,,,
+827,1,Malloreddus,,,,
+828,1,Mezze Penne,,,,
+829,1,Occhi di Lupo,,,,
+830,1,Orecchiette,,,,
+831,1,Paccheri,,,,
+832,1,Pansotti,,,,
+833,1,Papardelle,,,,
+834,1,Pici,,,,
+835,1,Radiatori,,,,
+836,1,Reginette,,,,
+837,1,Riccioli,,,,
+838,1,Ricotta Cavatelli,,,,
+839,1,Rotelle,,,,
+840,1,Rotini,,,,
+841,1,Sacchettoni,,,,
+842,1,Sagnarelli,,,,
+843,1,Strozzapreti,,,,
+845,1,Trofie,,,,
+846,1,Trenette,,,,
+847,1,Tripoline,,,,
+848,1,Ziti,,,,
+849,1,Orzo,,,,
+850,1,Stelline,,,,
+851,1,Pappardelle,,,,
+852,1,Lasagnette,,,,
+853,1,Fusilli Bucati,,,,
+854,1,Fusilli Lunghi,,,,
+855,1,Fusilli Col Buco,,,,
+856,1,Fusilloni,,,,
+857,1,Fagottini,,,,
+858,1,Fusilli Rigati,,,,
+859,1,Fettuccelle,,,,
+860,1,Farfalle,,,,
+861,1,Fettuccine Alfredo,,,,
+862,1,Fregula,,,,
+863,1,Gigli,,,,
+864,1,Gnocchetti Sardi,,,,
+865,1,Gnudi,,,,
+866,1,Gramigne,,,,
+867,1,Lagane,,,,
+868,1,Lasagna,,,,
+869,1,Maccheroni,,,,
+870,1,Maltagliati,,,,
+871,1,Maltagliati Toscani,,,,
+872,1,Marille,,,,
+873,1,Mafaldine,,,,
+874,1,Manicotti,,,,
+875,1,Marubini,,,,
+876,1,Matriciani,,,,
+877,1,Mezze Maniche,,,,
+878,1,Mezzelune,,,,
+879,1,Midolline,,,,
+880,1,Mista Corta,,,,
+881,1,Mista Lunga,,,,
+882,1,Mista Media,,,,
+883,1,Mista Zita,,,,
+884,1,Molette,,,,
+885,1,Occhi di Perdrix,,,,
+886,1,Ondine,,,,
+887,1,Paglia e Fieno,,,,
+888,1,Passatelli,,,,
+889,1,Penne,,,,
+890,1,Penne Lisce,,,,
+891,1,Penne Mezzani,,,,
+892,1,Penne Rigate,,,,
+893,1,Perciatelli,,,,
+894,1,Pincinelle,,,,
+895,1,Pipe Rigate,,,,
+896,1,Pipe Zita,,,,
+897,1,Pipette,,,,
+898,1,Pipette Rigate,,,,
+899,1,Pizziccheri,,,,
+900,1,Quadrefiore,,,,
+901,1,Quadretti,,,,
+902,1,Radiatori Rigati,,,,
+903,1,Radiatori Tostati,,,,
+904,1,Radiatore Regine,,,,
+905,1,Ramen,,,,
+906,1,Reginelle,,,,
+907,1,Reginette Ricciutelle,,,,
+908,1,Ricciutelli,,,,
+909,1,Rigatelli,,,,
+910,1,Rigatoncini,,,,
+911,1,Rigatoni,,,,
+912,1,Risone,,,,
+913,1,Risoni Risotto,,,,
+914,1,Rotini Col Buco,,,,
+915,1,Rotini Rigati,,,,
+916,1,Rotini Ruffles,,,,
+917,1,Rotini Spirals,,,,
+918,1,Rotini Trio,,,,
+919,1,Rotini Twist,,,,
+920,1,Ruote,,,,
+921,1,Ruote Bucate,,,,
+922,1,Ruotine,,,,
+923,1,Sacchettini,,,,
+924,1,Sagnette,,,,
+925,1,Scialatielli,,,,
+926,1,Scialatielli Piccoli,,,,
+927,1,Sedanini,,,,
+928,1,Sedani,,,,
+929,1,Sedani Rigati,,,,
+930,1,Seme di Melone,,,,
+931,1,Semolina,,,,
+932,1,Shells,,,,
+933,1,Shells (Conchiglie),,,,
+934,1,Sorprese,,,,
+935,1,Sorprese Bucate,,,,
+936,1,Sorprese Rigate,,,,
+937,1,Sorprese Tricolori,,,,
+938,1,Sorpresine,,,,
+939,1,Sorpresine Rigate,,,,
+940,1,Spaccatelle,,,,
+941,1,Spaghetti,,,,
+942,1,Spaghetti Rigati,,,,
+943,1,Spaghetti Spoon,,,,
+944,1,Spaghettini,,,,
+945,1,Spaghettoni,,,,
+946,1,Spirali,,,,
+947,1,Spirali Tricolore,,,,
+948,1,Spirali Rigati,,,,
+949,1,Spirale,,,,
+950,1,Stelline,,,,
+951,5,All-Purpose Flour,,,,
+952,5,Almond Flour,,,14,
+953,5,Amaranth Flour,,,,
+954,23,Barley Flour,,,37,
+955,5,Bread Flour,,,,
+956,5,Brown Rice Flour,,,17,
+957,5,Buckwheat Flour,,,80,
+958,5,Cassava Flour,,,91,
+959,5,Chickpea Flour (Gram or Besan),,,13,
+960,5,Coconut Flour,,,121,
+961,5,Corn Flour,,,18,
+962,5,Einkorn Flour,,,,
+963,5,Emmer Flour,,,,
+964,5,Farro Flour,,,,
+965,5,Hazelnut Flour,,,88,
+966,5,Kamut Flour,,,,
+967,5,Mesquite Flour,,,,
+968,5,Millet Flour,,,,
+969,23,Oat Flour,,,38,
+970,5,Potato Flour,,,21,
+971,5,Quinoa Flour,,,,
+972,5,Rye Flour,,,,
+973,23,Sorghum Flour,,,36,
+974,5,Spelt Flour,,,,
+975,21,Sweet Potato Flour,,,22,
+976,5,Tapioca Flour,,,,
+977,5,Teff Flour,,,,
+978,5,White Rice Flour,,,17,
+979,5,Whole Wheat Flour,,,,
+980,5,Yellow Corn Flour,,,18,
+981,6,White,,,17,951
+982,6,Brown,,,17,952
+983,6,Basmati,,,17,953
+984,6,Jasmine,,,17,954
+985,6,Arborio,,,17,955
+986,6,Wild,,,17,956
+987,6,Black (Forbidden),,,17,957
+988,6,Red,,,17,958
+989,6,Yellow,,,17,959
+990,6,Sticky (Glutinous),,,17,960
+991,6,Parboiled,,,17,961
+992,6,Sushi,,,17,962
+993,6,Carnaroli,,,17,963
+994,6,Calrose,,,17,964
+995,6,Wehani,,,17,965
+996,6,Volcano,,,17,966
+997,6,Texmati,,,17,967
+998,6,Camargue Red,,,17,968
+999,6,Bhutanese Red,,,17,969
+1000,6,Koshihikari,,,17,970
+1001,6,Vialone Nano,,,17,971
+1002,6,Baldo,,,17,972
+1003,6,Roma,,,17,973
+1004,6,Originario,,,17,974
+1005,6,Ribe,,,17,975
+1006,6,Cascina Belvedere,,,17,976
+1007,6,Thaibonnet,,,17,
+1008,6,Carnise,,,17,
+1009,6,Lario,,,17,
+1010,6,Ermes,,,17,
+1011,6,Tobia,,,17,
+1012,6,Koral,,,17,
+1013,6,Nano Vialone Veronese,,,17,
+1014,6,Ribe Bianco,,,17,
+1015,6,Rosa Marchetti,,,17,
+1016,6,Rosa Marchetti Rosso,,,17,
+1017,6,Saraceno,,,17,
+1018,6,Riso del Delta,,,17,
+1019,6,Riso Giallo,,,17,
+1020,6,Riso Rosso,,,17,
+1021,6,Rosanella,,,17,
+1022,6,Roxana,,,17,
+1023,6,Royal Umbro,,,17,
+1024,6,Nano Prego,,,17,
+1025,6,Sava,,,17,
+1026,6,Sultana,,,17,
+1027,6,Tegar,,,17,
+1028,6,Thadai,,,17,
+1029,6,Valenza,,,17,
+1030,6,Venere,,,17,
+1031,6,Vialone Rosso,,,17,
+1032,6,Violet,,,17,
+1033,6,Xiomara,,,17,
+1034,6,Yanbo,,,17,
+1035,6,Zhefu,,,17,
+1036,6,Zhonghua,,,17,
+1037,10,Alligator,,,,
+1038,10,Alpaca,,,,
+1039,10,Bison,,,,
+1040,10,Buffalo,,,,
+1041,10,Camel,,,,
+1042,10,Beef,,,,
+1043,10,Chicken,,,,
+1044,10,Crocodile,,,,
+1045,10,Venison,,,,
+1046,10,Duck,,,,
+1047,10,Emu,,,,
+1048,10,Goose,,,,
+1049,10,Goat,,,,
+1050,10,Guinea Fowl,,,,
+1051,10,Horse,,,,
+1052,10,Llama,,,,
+1053,10,Ostrich,,,,
+1054,10,Pheasant,,,,
+1055,10,Pork,,,,
+1056,10,Quail,,,,
+1057,10,Rabbit,,,,
+1058,10,Sheep,,,,
+1059,10,Snail,,,,
+1060,10,Turkey,,,,
+1061,10,Yak,,,,
+1062,2,Allspice,,,,
+1064,2,Cloves,,,,
+1065,2,Cumin,,,,
+1067,2,Mace,,,106,0
+1069,13,Saffron,,,149,0
+1070,2,Turmeric,,,96,
+1072,2,Anise,,,,
+1074,2,Cardamom,,,96,
+1075,2,Star Anise,,,,
+1076,2,Mustard Seeds,,,,
+1077,2,Cayenne Pepper,,,,
+1078,2,Paprika,,,,
+1079,2,Chili Powder,,,,
+1080,2,Garlic Powder,,,163,
+1081,2,Onion Powder,,,162,
+1082,2,Tarragon,,,,
+1084,2,Thyme,,,,
+1085,2,Savory,,,,
+1086,2,Rosemary,,,,
+1087,2,Bay Leaves,,,,
+1088,29,Dill Seeds,,,96,0
+1089,29,Coriander,,,98,0
+1090,2,Caraway,,,,
+1091,2,Fenugreek,,,,
+1092,7,Wild Lettuce,,,2,502
+1093,7,Oak Leaf,,,2,503
+1094,7,Crisp,,,2,504
+1095,7,Iceberg,,,2,506
+1096,7,Butterhead,,,2,507
+1097,7,Romaine,,,2,508
+1098,7,Frisée,,,2,509
+1099,7,Lollo Rosso,,,2,511
+1100,7,Green Leaf,,,2,513
+1101,7,Buttercrunch,,,2,514
+1102,7,Tango,,,2,516
+1103,7,Mâche,,,2,518
+1104,7,Tat Soi,,,2,519
+1105,7,Red Romaine,,,2,521
+1106,7,Chinese Lettuce,,,2,523
+1108,7,Escarole,,,2,526
+1109,7,Salad Bowl,,,2,529
+1110,7,Tender Sweet,,,3,533
+1111,7,Scarlet Nantes,,,3,534
+1112,7,Rainbow Carrots,,,3,535
+1113,7,Paris Market,,,3,536
+1116,7,Chantenay Red Core,,,3,537
+1117,7,Mini Carrots,,,3,538
+1118,7,Bolero,,,3,539
+1119,7,Hokkaido,,,3,540
+1120,7,"	
+Nantes Half Long",,,3,541
+1121,7,Deep Purple,,,3,542
+1122,7,Orange Dragon,,,3,543
+1123,7,Viking,,,3,544
+1124,7,Autumn King,,,3,545
+1125,7,F1 Hybrid,,,3,546
+1126,7,Imperator,,,3,548
+1127,7,Danvers,,,3,549
+1128,7,Bolero,,,3,539
+1129,7,Yellow Carrot,,,3,553
+1130,7,White Carrot,,,3,554
+1131,7,Parisian,,,3,555
+1132,7,Cosmic Purple,,,3,556
+1133,7,Kuroda,,,3,557
+1134,7,Oxheart,,,3,558
+1135,7,Tonda di Parigi,,,3,559
+1136,7,Sunchoke,,,3,560
+1137,7,Bunching Carrot,,,3,562
+1138,7,Napoli,,,3,563
+1139,7,Taylors Gold,,,3,564
+1140,7,Mokum,,,3,565
+1141,7,Sweetness,,,3,566
+1142,7,Cylindra,,,3,567
+1143,7,Amsterdam,,,3,568
+1144,7,Pusa Kesar,,,3,569
+1145,7,Long White,,,3,570
+1146,7,Giant Carrot,,,3,571
+1147,7,Tenderheart,,,3,573
+1148,7,Golden Nugget,,,3,574
+1149,7,Di Cicco,,,4,576
+1150,7,"	
+Sprouting Broccoli",,,4,577
+1151,7,Purple Sprouting Broccoli,,,4,598
+1152,7,Romanesco,,,4,579
+1153,7,Belstar,,,4,581
+1154,7,Marathon,,,4,582
+1155,7,Green Goliath,,,4,583
+1156,7,Arcadia,,,4,584
+1157,7,Purple Peacock,,,4,585
+1158,7,Fiesta,,,4,586
+1159,7,Waltham 29,,,4,587
+1160,7,Sun King,,,4,588
+1161,7,Castle Dome,,,4,589
+1162,7,Emerald Crown,,,4,590
+1163,7,Gypsy,,,4,591
+1164,7,Blue Wind,,,4,592
+1165,7,Packman,,,4,593
+1166,7,Parthenon,,,4,594
+1167,7,De Cicco,,,4,595
+1168,7,Green Magic,,,4,596
+1169,7,Imperial,,,4,597
+1170,7,Santee,,,4,599
+1171,7,Claret,,,4,600
+1172,7,Marketmore 76,,,5,601
+1173,7,Lemon Cucumber,,,5,602
+1174,7,Persian Cucumber,,,5,603
+1175,7,English Cucumber,,,5,604
+1176,7,Armenian Cucumber,,,5,605
+1177,7,Boston Pickling,,,5,606
+1178,7,Straight Eight,,,5,607
+1179,7,National Pickling,,,5,608
+1180,7,Suyo Long,,,5,609
+1181,7,Burpless Tasty Green,,,5,610
+1182,7,Parisian Pickling,,,5,611
+1183,7,Bush Champion,,,5,612
+1184,7,Poinsett 76,,,5,613
+1185,7,Spacemaster,,,5,614
+1186,7,Dasher II,,,5,615
+1187,7,Picklebush,,,5,616
+1188,7,Ashley,,,5,617
+1189,7,Cool Breeze,,,5,618
+1190,7,Sweet Success,,,5,620
+1191,7,Early Spring Burpless,,,5,621
+1192,7,Poona Kheera,,,5,622
+1193,7,Harmonie,,,5,623
+1194,7,Salad Bush,,,5,624
+1195,7,Carosello,,,5,625
+1196,7,White Wonder,,,5,626
+1197,7,Muncher,,,5,627
+1198,7,Japanese Climbing,,,5,628
+1199,7,Crystal Apple,,,5,629
+1200,7,Tanja,,,5,630
+1201,7,Beit Alpha,,,5,631
+1202,7,Bloomsdale,,,6,632
+1203,7,Tyee,,,6,633
+1204,7,Baby Spinach,,,6,635
+1205,7,Red Cardinal,,,6,635
+1206,7,Red Cardinal,,,6,637
+1207,7,Viroflay,,,6,638
+1208,7,Lavewa,,,6,641
+1209,7,Space Spinach,,,6,642
+1210,7,Long Standing Bloomsdale,,,6,643
+1211,7,Winter Giant,,,6,644
+1212,7,Regiment,,,6,645
+1213,7,Corvair,,,6,646
+1214,7,Palco,,,6,647
+1215,7,Verdil,,,6,648
+1216,7,Emu Spinach,,,6,649
+1217,7,Matador,,,6,650
+1218,7,Persian Spinach,,,6,651
+1219,7,Samish,,,6,653
+1220,7,Olympia,,,6,654
+1221,7,Kolibri,,,6,655
+1222,7,Lacinato Kale,,,7,659
+1223,7,"	
+Red Russian Kale",,,7,660
+1224,7,Siberian Kale,,,7,661
+1225,7,Premier Kale,,,7,662
+1226,7,Dwarf Blue Curled Kale,,,7,663
+1227,7,Scarlet Kale,,,7,664
+1228,7,Nero di Toscana,,,7,665
+1229,7,Dwarf Siberian Kale,,,7,666
+1230,7,Walking Stick Kale,,,7,667
+1231,7,Redbor Kale,,,7,668
+1232,7,Tronchuda Kale,,,7,669
+1233,7,Vates Blue Curled Kale,,,7,670
+1234,7,White Russian Kale,,,7,671
+1235,7,Beira Kale,,,7,672
+1236,7,Red Ursa Kale,,,7,673
+1237,7,Dazzling Blue Kale,,,7,674
+1238,7,Thousandhead Kale,,,7,675
+1239,7,Smooth German Kale,,,7,676
+1240,7,Winterbor Kale,,,7,677
+1241,7,Westlander Kale,,,7,678
+1242,7,Hungry Gap Kale,,,7,679
+1243,7,Sutherland Kale,,,7,681
+1244,7,Pentland Brig Kale,,,7,682
+1245,7,Cavolo Nero,,,7,683
+1246,12,Gala,,,8,685
+1247,12,Granny Smith,,,8,686
+1248,12,Fuji,,,8,687
+1249,12,Golden Delicious,,,8,688
+1250,12,Red Delicious,,,8,689
+1251,12,McIntosh,,,8,690
+1252,12,Braeburn,,,8,691
+1253,12,Jonagold,,,8,692
+1254,12,"	
+Cortland",,,8,693
+1255,12,Cripps Pink,,,8,694
+1256,12,Empire,,,8,695
+1257,12,Northern Spy,,,8,696
+1258,12,Jonathan,,,8,697
+1259,12,Ambrosia,,,8,698
+1260,12,Mutsu,,,8,699
+1261,12,Cameo,,,8,700
+1262,12,Arkansas Black,,,8,701
+1263,12,Winesap,,,8,702
+1264,12,Liberty,,,8,703
+1265,12,Spartan,,,8,704
+1266,12,Rome Beauty,,,8,705
+1267,12,Gravenstein,,,8,706
+1268,12,Pippin,,,8,707
+1269,12,King David,,,8,708
+1270,12,Golden Russet,,,8,709
+1271,12,Ashmead’s Kernel,,,8,710
+1272,12,Esopus Spitzenburg,,,8,711
+1273,12,Black Oxford,,,8,712
+1274,12,Kanzi,,,8,713
+1275,12,Envy,,,8,714
+1276,12,Rubinette,,,8,715
+1277,12,Egremont Russet,,,8,716
+1278,12,Opal,,,8,717
+1279,12,SweeTango,,,8,718
+1280,12,Zestar,,,8,719
+1281,12,Jazz,,,8,720
+1282,12,Enterprise,,,8,721
+1283,12,Suncrisp,,,8,722
+1284,12,Snow Apple,,,8,723
+1285,12,Stayman,,,8,724
+1286,12,Roxbury Russet,,,8,725
+1287,12,Summer Rambo,,,8,726
+1288,12,Twenty Ounce,,,8,727
+1289,12,"	
+York Imperial",,,8,728
+1290,12,Wolf River,,,8,729
+1291,12,Freedom,,,8,730
+1292,12,Goldrush,,,8,731
+1293,12,Bramley’s Seedling,,,8,732
+1294,12,Valencia Orange,,,9,797
+1295,12,Blood Orange,,,9,798
+1296,12,Cara Cara Orange,,,9,799
+1297,12,Seville Orange,,,9,800
+1298,12,Mandarin Orange,,,9,801
+1299,12,Satsuma,,,9,804
+1300,12,Kinnow,,,9,805
+1301,12,Jaffa Orange,,,9,806
+1303,12,Bergamot Orange,,,9,807
+1304,12,Hamlin Orange,,,9,808
+1305,12,Parson Brown Orange,,,9,809
+1306,12,Pineapple Orange,,,9,810
+1307,12,Washington Navel,,,9,811
+1308,12,"	
+Moro Blood Orange",,,9,812
+1309,12,Tarocco Blood Orange,,,9,813
+1310,12,Salustiana Orange,,,9,814
+1311,12,Shamouti Orange,,,9,815
+1312,12,Trovita Orange,,,9,816
+1313,12,Bitter Orange,,,9,817
+1314,12,Fukumoto Navel,,,9,818
+1315,12,Lane Late Navel,,,9,819
+1316,12,Robinson Tangerine,,,9,820
+1317,12,Temple Orange,,,9,821
+1318,12,Minneola Tangelo,,,9,822
+1319,12,Orlando Tangelo,,,9,823
+1320,12,Sunburst Tangerine,,,9,824
+1321,12,Dancy Tangerine,,,9,825
+1322,12,Murcott Orange,,,9,826
+1323,12,Cleopatra Mandarin,,,9,827
+1324,12,Changsha Mandarin,,,9,828
+1325,12,Fortune Mandarin,,,9,829
+1326,12,"	
+Encore Mandarin",,,9,830
+1327,12,Fairchild Mandarin,,,9,831
+1328,12,Sanguinelli Blood Orange,,,9,832
+1329,12,Tangor,,,9,833
+1330,12,Lima Orange,,,9,835
+1331,12,Cavendish,,,10,836
+1332,12,Red Banana,,,10,838
+1333,12,Lady Finger,,,10,839
+1334,12,Blue Java (Ice Cream Banana),,,10,840
+1335,12,Burro,,,10,841
+1336,12,Manzano (Apple Banana),,,10,842
+1337,12,Pisang Raja,,,10,843
+1338,12,Mysore,,,10,844
+1339,12,Goldfinger,,,10,845
+1340,12,Praying Hands,,,10,846
+1341,12,Fehi,,,10,847
+1342,12,Rhino Horn,,,10,848
+1343,12,Saba,,,10,849
+1344,12,Cardaba,,,10,850
+1345,12,Plantain,,,10,851
+1346,12,Dwarf Cavendish,,,10,852
+1347,12,Orinoco,,,10,853
+1348,12,Red Dacca,,,10,854
+1351,12,Macho Plantain,,,10,855
+1352,12,Pisang Awak,,,10,856
+1353,12,Fhia-17,,,10,857
+1354,12,Barangan,,,10,858
+1355,12,Lakatan,,,10,859
+1356,12,Williams,,,10,860
+1357,12,Ice Cream (Blue Java),,,10,861
+1358,12,Dwarf Red,,,10,862
+1360,12,Kluai Namwa,,,10,863
+1361,12,Ney Poovan,,,10,864
+1362,12,Kandarian,,,10,865
+1363,12,Silk (Manzano),,,10,866
+1364,12,Gran Nain,,,10,867
+1365,12,Mongee,,,10,868
+1366,12,Maoli,,,10,869
+1367,12,Bluggoe,,,10,870
+1368,19,Virginia,,,11,871
+1369,19,Runner,,,11,872
+1370,19,Spanish,,,11,873
+1371,19,Valencia,,,11,874
+1372,19,"	
+Tennessee Red",,,11,875
+1373,19,Tennessee White,,,11,876
+1374,19,Peruvian,,,11,877
+1375,19,Jumbo Virginia,,,11,878
+1376,19,African Runner,,,11,879
+1377,19,Manipintar,,,11,880
+1378,19,Shulamit,,,11,881
+1379,19,Natal Common,,,11,882
+1380,19,Florunner,,,11,883
+1381,19,Georgia Green,,,11,884
+1382,19,Tamnut,,,11,885
+1383,19,Gregory,,,11,886
+1384,19,Tifguard,,,11,887
+1385,19,Bailey,,,11,888
+1386,19,OLé,,,11,889
+1387,19,Sugg,,,11,890
+1388,19,Carver,,,11,891
+1389,19,Georgia-06G,,,11,892
+1390,19,Tifton-8,,,11,893
+1391,19,Pronto,,,11,894
+1392,19,Shoshoni,,,11,895
+1393,19,Virginia Jumbo,,,11,896
+1394,19,McRaney,,,11,897
+1395,19,Olin,,,11,898
+1396,19,Southern Runner,,,11,899
+1397,19,Valverde,,,11,900
+1398,19,SunOleic,,,11,901
+1399,19,Brown Lentil (Most Common),,,12,902
+1400,19,Yellow Lentil,,,12,905
+1401,19,Black Beluga Lentil,,,12,906
+1402,19,Puy Lentil,,,12,907
+1403,19,Masoor Dal,,,12,908
+1404,19,Chana Dal,,,12,909
+1405,19,Desi Chickpea,,,13,910
+1406,19,Kala Chana,,,13,912
+1407,19,Green Chickpea,,,13,913
+1408,19,Black Chickpea,,,13,914
+1409,19,Chana Dal,,,13,915
+1410,20,Almond Milk,,,14,
+1411,20,Nonpareil Almond (Most Common),,,14,916
+1412,20,Carmel Almond,,,14,917
+1413,20,Butte Almond,,,14,918
+1414,20,Padre Almond,,,14,919
+1415,20,Sonora Almond,,,14,920
+1416,20,Mission Almond,,,14,921
+1417,20,Texas/Mission Almond,,,14,922
+1418,20,Fritz Almond,,,14,923
+1419,20,Monterey Almond,,,14,924
+1420,20,Price Almond,,,14,925
+1421,9,English Walnut (Most Common),,,15,926
+1422,9,Black Walnut,,,15,927
+1423,9,White Walnut (Butternut),,,15,928
+1424,9,Chandler Walnut,,,15,929
+1425,9,Howard Walnut,,,15,930
+1426,9,Franquette Walnut,,,15,931
+1427,9,Hartley Walnut,,,15,932
+1428,9,Serr Walnut,,,15,933
+1429,9,Tulare Walnut,,,15,934
+1430,9,Vina Walnut,,,15,935
+1431,9,Lara Walnut,,,15,936
+1432,20,Walnut Milk,,,15,
+1433,5,Almond Milk,,,14,
+1435,5,Walnut Flour,,,15,
+1437,5,Hard Red Winter Wheat,,,16,
+1438,5,Hard Red Spring Wheat,,,16,937
+1439,5,Soft Red Winter Wheat,,,16,939
+1440,5,Soft White Wheat,,,16,940
+1441,5,Durum Wheat,,,16,941
+1442,5,Spelt,,,16,942
+1443,5,Einkorn,,,16,943
+1444,5,Emmer (Farro),,,16,944
+1445,5,Khorasan Wheat (Kamut),,,16,945
+1446,5,Club Wheat,,,16,946
+1447,5,Red Fife,,,16,947
+1448,5,White Sonora Wheat,,,16,948
+1449,5,Freekeh,,,16,949
+1450,5,Triticale,,,16,950
+1451,7,Dent Corn,,,18,1007
+1452,7,Flint Corn,,,18,1008
+1453,7,Sweet Corn,,,18,1009
+1454,7,Popcorn,,,18,1010
+1455,7,Flour Corn,,,18,1011
+1456,7,Waxy Corn,,,18,1012
+1457,7,Pod Corn,,,18,1013
+1458,7,Blue Corn,,,18,1014
+1459,7,Red Corn,,,18,1015
+1460,7,White Corn,,,18,1016
+1461,7,Yellow Corn,,,18,1017
+1462,7,Purple Corn,,,18,1018
+1463,7,Striped Corn,,,18,1019
+1464,7,Black Corn,,,18,1020
+1465,7,Glass Gem Corn,,,18,1021
+1466,7,Gourdseed Corn,,,18,1022
+1467,7,Calico Corn,,,18,1023
+1468,7,Choclo,,,18,1024
+1469,7,Oaxacan Green Corn,,,18,1025
+1470,7,Strawberry Popcorn,,,18,1026
+1471,7,Silver Queen Corn,,,18,1027
+1472,7,Golden Bantam Corn,,,18,1028
+1473,7,Country Gentleman Corn,,,18,1029
+1474,7,Painted Mountain Corn,,,18,1030
+1475,7,Hopi Blue Corn,,,18,1031
+1476,7,Ambrosia Corn,,,18,1032
+1477,7,Peaches and Cream Corn,,,18,1033
+1478,7,Inca Red Corn,,,18,1034
+1479,7,Rainbow Corn,,,18,1035
+1480,7,Golden Jubilee Corn,,,18,1036
+1481,7,Butter and Sugar Corn,,,18,1037
+1482,7,Seneca Red Stalker Corn,,,18,1038
+1483,7,Indian Corn,,,18,1039
+1484,7,Reventador Corn,,,18,1040
+1485,7,Chioggia,,,19,1042
+1486,7,Golden,,,19,1043
+1487,7,Cylindra,,,19,1044
+1488,7,Bull’s Blood,,,19,1045
+1489,7,Albino,,,19,1046
+1490,7,Touchstone Gold,,,19,1047
+1491,7,Forono,,,19,1048
+1492,7,Red Ace,,,19,1049
+1493,7,Baby Beet,,,19,1050
+1494,7,Lutz Green Leaf,,,19,1051
+1495,7,Merlin,,,19,1052
+1496,7,Avalanche,,,19,1053
+1497,7,Sugar Beet,,,19,1054
+1498,7,Crapaudine,,,19,1055
+1499,7,Burpee’s Golden,,,19,1056
+1500,7,Taunus,,,19,1057
+1502,7,Egyptian Flat,,,19,1058
+1503,7,MacGregor’s Favorite,,,19,1059
+1504,7,Ruby Queen,,,19,1060
+1505,7,Golden Grex,,,19,1061
+1506,7,Tonda di Chioggia,,,19,1062
+1507,7,Early Wonder,,,19,1063
+1508,7,Boltardy,,,19,1064
+1509,7,Solo,,,19,1065
+1510,7,Moneta,,,19,1067
+1511,7,Blankoma,,,19,1068
+1512,7,Pablo,,,19,1069
+1513,7,Subeto,,,19,1070
+1514,7,Detroit Supreme,,,19,1071
+1515,7,Zeppo,,,19,1072
+1516,7,Boro,,,19,1073
+1517,7,Badger Flame,,,19,1074
+1518,7,Purple Ace,,,19,1075
+1519,7,Boldor,,,19,1076
+1520,7,Golden Ball,,,20,1078
+1522,7,Tokyo Cross,,,20,1079
+1523,7,Hakurei,,,20,1080
+1524,7,White Lady,,,20,1081
+1525,7,Scarlet Queen,,,20,1082
+1526,7,Seven Top,,,20,1083
+1527,7,Shogoin,,,20,1084
+1528,7,Orange Jelly,,,20,1085
+1529,7,Market Express,,,20,1086
+1530,7,Oasis,,,20,1087
+1531,7,Just Right,,,20,1088
+1532,7,Petrowski,,,20,1089
+1533,7,Ball of Butter,,,20,1090
+1534,7,Snowball,,,20,1091
+1535,7,Nozawana,,,20,1092
+1536,7,Royal Crown,,,20,1093
+1537,7,Amber Globe,,,20,1094
+1538,7,Purple Prince,,,20,1095
+1539,7,Topper,,,20,1096
+1540,7,Royal Globe,,,20,1097
+1541,7,Nabo,,,20,1098
+1542,7,Atlantic,,,20,1099
+1543,7,"	
+Jersey Navet",,,20,1100
+1544,7,Cooks Delight,,,20,1101
+1545,7,Snow Queen,,,20,1102
+1546,7,Milan Purple Top,,,20,1103
+1547,7,Southern Green,,,20,1104
+1548,7,Jubilee,,,20,1105
+1549,7,Navet de Nancy,,,20,1106
+1550,7,Petrowski Golden,,,20,1107
+1551,7,Tokyo Market,,,20,1108
+1552,7,Purple Top Milan,,,20,1109
+1553,7,White Egg,,,20,1110
+1554,7,Sweetbell,,,20,1111
+1555,7,Top Star,,,20,1112
+1556,7,Golden Globe,,,20,1113
+1557,7,Purple Star,,,20,1114
+1558,7,Gilfeather,,,20,1115
+1559,21,Russet Burbank,,,21,
+1561,21,Yukon Gold,,,21,1117
+1562,21,Fingerling,,,21,1119
+1563,21,Kennebec,,,21,1120
+1564,21,Purple Majesty,,,21,1121
+1565,21,Red Bliss,,,21,1122
+1566,21,Maris Piper,,,21,1123
+1567,21,Charlotte,,,21,1124
+1568,21,Desiree,,,21,1125
+1569,21,King Edward,,,21,1126
+1570,21,La Ratte,,,21,1127
+1571,21,Purple Peruvian,,,21,1128
+1572,21,Adirondack Blue,,,21,1129
+1573,21,Adirondack Red,,,21,1130
+1574,21,Carola,,,21,1131
+1575,21,German Butterball,,,21,1132
+1576,21,Huckleberry Gold,,,21,1133
+1577,21,Irish Cobbler,,,21,1134
+1578,21,Nicola,,,21,1135
+1579,21,Russet Norkotah,,,21,1136
+1580,21,Caribe,,,21,1137
+1581,21,Bintje,,,21,1138
+1582,21,All Blue,,,21,1139
+1583,21,French Fingerling,,,21,1140
+1584,21,Goldrush,,,21,1141
+1585,21,Katahdin,,,21,1142
+1586,21,Norland,,,21,1143
+1587,21,Onaway,,,21,1144
+1588,21,Red Gold,,,21,1145
+1589,21,Satina,,,21,1146
+1590,21,Belle de Fontenay,,,21,1147
+1591,21,Penta,,,21,1148
+1592,21,Rose Finn Apple,,,21,1149
+1593,21,Shepody,,,21,1150
+1594,21,Up-to-Date,,,21,1151
+1595,21,Valery,,,21,1152
+1596,21,Vitelotte,,,21,1153
+1597,21,Waxy Potato,,,21,1154
+1598,21,Irish Gold,,,21,1155
+1599,21,Banana Fingerling,,,21,1156
+1600,21,Victoria,,,21,1157
+1601,21,Red Cloud,,,21,1158
+1602,21,Snowden,,,21,1159
+1603,21,Bonnotte,,,21,1160
+1604,21,Charlotte Rose,,,21,1161
+1605,21,Bliss Triumph,,,21,1162
+1606,21,Purple Viking,,,21,1163
+1607,21,Inca Gold,,,21,1164
+1608,21,Beauregard,,,22,1165
+1609,21,Covington,,,22,1166
+1610,21,Garnet,,,22,1167
+1611,21,Jewel,,,22,1168
+1612,21,Japanese (Satsuma-Imo),,,22,1169
+1613,21,Hannah,,,22,1170
+1614,21,Purple (Okinawan),,,22,1171
+1615,21,Murasaki,,,22,1172
+1616,21,Stokes Purple,,,22,1173
+1617,21,Bonita,,,22,1174
+1618,21,O Henry,,,22,1175
+1619,21,Carolina Ruby,,,22,1176
+1620,21,Centennial,,,22,1177
+1621,21,Diane,,,22,1178
+1622,21,Evangelina,,,22,1179
+1623,21,Korean Purple,,,22,1180
+1624,21,White Yam,,,22,1181
+1625,21,Georgia Jet,,,22,1182
+1626,21,Bushbok,,,22,1183
+1627,21,Allgold,,,22,1184
+1628,21,Sumor,,,22,1185
+1629,21,Jersey,,,22,1186
+1630,21,Molokai,,,22,1187
+1631,21,Goldrush,,,22,1188
+1632,21,Lorca,,,22,1189
+1633,21,Nancy Hall,,,22,1190
+1634,21,Porto Rico,,,22,1191
+1635,21,Regal,,,22,1192
+1636,21,Toka Toka Gold,,,22,1193
+1637,21,Burgundy,,,22,1194
+1638,21,Mishima,,,22,1195
+1639,21,Velvet,,,22,1196
+1640,21,Vardaman,,,22,1197
+1641,21,Sunset,,,22,1198
+1642,21,Tainung 65,,,22,1199
+1643,17,Genovese,,,23,1200
+1644,17,Sweet Basil,,,23,1201
+1645,17,Thai Basil,,,23,1202
+1646,17,Lemon Basil,,,23,1203
+1647,17,Lime Basil,,,23,1204
+1648,17,Purple Basil,,,23,1205
+1649,17,Holy Basil,,,23,1206
+1650,17,Cinnamon Basil,,,23,1207
+1651,17,Greek Basil,,,23,1208
+1652,17,Spicy Globe Basil,,,23,1209
+1653,17,Dark Opal Basil,,,23,1210
+1654,17,Lettuce Leaf Basil,,,23,1211
+1655,17,Pistou Basil,,,23,1212
+1656,17,African Blue Basil,,,23,1213
+1657,17,Mammoth Basil,,,23,1214
+1658,17,Aristotle Basil,,,23,1215
+1659,17,Cardinal Basil,,,23,1216
+1660,17,Green Ruffles Basil,,,23,1217
+1661,17,Minette Basil,,,23,1218
+1662,17,Perpetual Basil,,,23,1219
+1663,17,Siam Queen Basil,,,23,1220
+1664,17,Napoletano Basil,,,23,1221
+1665,17,Dwarf Greek Basil,,,23,1222
+1666,17,Summerlong Basil,,,23,1223
+1667,17,Boxwood Basil,,,23,1224
+1668,17,Mrs. Burns’ Lemon Basil,,,23,1225
+1669,17,Magic Michael Basil,,,23,1226
+1670,17,Italian Large Leaf Basil,,,23,1227
+1671,17,Emerald Tower Basil,,,23,1228
+1672,17,Osmin Purple Basil,,,23,1229
+1673,17,Piccolino Basil,,,23,1230
+1674,17,Greek Oregano,,,25,1231
+1675,17,"	
+Italian Oregano",,,25,1232
+1676,17,Mexican Oregano,,,25,1233
+1677,17,Syrian Oregano (Za’atar),,,25,1234
+1678,17,Turkish Oregano,,,25,1235
+1679,17,Cretan Oregano,,,25,1236
+1680,17,Golden Oregano,,,25,1237
+1681,17,Dittany of Crete,,,25,1238
+1682,17,Compact Oregano,,,25,1239
+1683,17,Hot and Spicy Oregano,,,25,1240
+1684,17,Kaliteri Oregano,,,25,1241
+1685,17,Hungarian Oregano,,,25,1242
+1686,17,Wild Oregano,,,25,1243
+1687,17,Variegated Oregano,,,25,1244
+1688,17,Sweet Marjoram,,,25,1245
+1689,17,Cuban Oregano,,,25,1246
+1690,17,Poliomintha (Mexican Bush Oregano),,,25,1247
+1691,17,Italian Wild Oregano,,,25,1248
+1692,17,Origanum Vulgare,,,25,1249
+1693,17,Kent Beauty Oregano,,,25,1250
+1694,17,Aureum Oregano,,,25,1251
+1695,17,Majorcan Oregano,,,25,1252
+1696,17,Balkan Oregano,,,25,1253
+1697,17,Spanish Oregano,,,25,1254
+1698,17,Albanian Oregano,,,25,1255
+1699,17,Armenian Oregano,,,25,1256
+1700,17,Zaatar Oregano,,,25,1257
+1701,17,Egyptian Oregano,,,25,1258
+1702,17,Lebanese Oregano,,,25,1259
+1703,17,Wild Marjoram,,,25,1260
+1704,17,Sicilian Oregano,,,25,1261
+1705,17,Albanian Red Oregano,,,25,1262
+1706,17,Iranian Oregano,,,25,1263
+1707,17,Himalayan Oregano,,,25,1264
+1708,17,Provence Oregano,,,25,1265
+1709,17,Corsican Oregano,,,25,1266
+1710,17,Northern Oregano,,,25,1267
+1711,17,Russian Oregano,,,25,1268
+1712,17,Curly Leaf Parsley,,,26,1269
+1713,17,Flat-Leaf (Italian) Parsley,,,26,1270
+1714,17,Hamburg Parsley,,,26,1271
+1715,17,Japanese Parsley (Mitsuba),,,26,1272
+1716,17,Fernleaf Parsley,,,26,1273
+1717,17,Triple Curled Parsley,,,26,1274
+1718,17,French Parsley,,,26,1275
+1719,17,Afghan Parsley,,,26,1276
+1721,17,Dark Green Italian Parsley,,,26,1278
+1722,17,Giant of Italy Parsley,,,26,1279
+1723,17,Neapolitan Parsley,,,26,1280
+1724,17,Sardinian Parsley,,,26,1281
+1725,17,Turnip-Rooted Parsley,,,26,1282
+1726,17,Italian Dark Green Parsley,,,26,1283
+1727,17,Bravour Parsley,,,26,1284
+1728,17,Eagle Parsley,,,26,1285
+1729,17,Glacier Parsley,,,26,1286
+1730,17,Lisette Parsley,,,26,1287
+1731,17,Petroselinum Crispum,,,26,1288
+1732,17,Titan Parsley,,,26,1289
+1733,17,Forest Green Parsley,,,26,1290
+1734,17,Plain Leaf Parsley,,,26,1291
+1735,17,Extra Triple Curled Parsley,,,26,1292
+1736,17,Green Pearl Parsley,,,26,1293
+1737,17,"	
+Champion Moss Curled Parsley",,,26,1294
+1738,22,Button Mushroom (Agaricus bisporus),,,27,1295
+1739,22,Cremini Mushroom,,,27,1296
+1740,22,Portobello Mushroom,,,27,1297
+1741,22,Shiitake Mushroom,,,27,1298
+1742,22,Oyster Mushroom,,,27,1299
+1745,22,King Oyster Mushroom,,,27,1300
+1746,22,Enoki Mushroom,,,27,1301
+1747,22,Maitake Mushroom (Hen of the Woods),,,27,1302
+1748,22,Chanterelle Mushroom,,,27,1303
+1749,22,Porcini Mushroom,,,27,1304
+1750,22,Morel Mushroom,,,27,1305
+1751,22,Beech Mushroom (Shimeji),,,27,1306
+1752,22,Black Trumpet Mushroom,,,27,1307
+1753,22,Lion’s Mane Mushroom,,,27,1308
+1754,22,Wood Ear Mushroom,,,27,1309
+1755,22,Puffball Mushroom,,,27,1310
+1756,22,Chicken of the Woods,,,27,1311
+1757,22,Lobster Mushroom,,,27,1312
+1758,22,Cauliflower Mushroom,,,27,1313
+1759,22,Pioppino Mushroom,,,27,1314
+1760,22,Nameko Mushroom,,,27,1315
+1761,22,Alba Clamshell Mushroom,,,27,1316
+1762,22,Golden Oyster Mushroom,,,27,1317
+1763,22,Pink Oyster Mushroom,,,27,1318
+1764,22,Velvet Pioppini Mushroom,,,27,1319
+1765,22,Hedgehog Mushroom,,,27,1320
+1766,22,Yellowfoot Mushroom,,,27,1321
+1767,22,Chestnut Mushroom,,,27,1322
+1768,22,White Elf Mushroom,,,27,1323
+1769,22,Bluefoot Mushroom,,,27,1324
+1770,22,King Bolete,,,27,1326
+1771,7,Green Cabbage,,,28,1327
+1772,7,Red Cabbage,,,28,1328
+1773,7,Savoy Cabbage,,,28,1329
+1774,7,Napa Cabbage,,,28,1330
+1775,7,Bok Choy,,,28,1331
+1776,7,Choy Sum,,,28,1332
+1777,7,January King Cabbage,,,28,1333
+1778,7,Conehead Cabbage,,,28,1334
+1779,7,Tuscan Cabbage (Cavolo Nero),,,28,1335
+1780,7,Tatsoi,,,28,1336
+1781,7,Kalibos,,,28,1337
+1783,7,Walking Stick Cabbage,,,28,1339
+1784,7,Jersey Wakefield,,,28,1340
+1785,7,Parel Cabbage,,,28,1341
+1786,7,Caraflex Cabbage,,,28,1342
+1787,7,Pixie Cabbage,,,28,1343
+1788,7,Chinese Flat Cabbage,,,28,1344
+1789,7,Danish Ballhead,,,28,1345
+1790,7,Golden Acre Cabbage,,,28,1346
+1791,7,Early Jersey Wakefield,,,28,1347
+1792,7,Red Drumhead Cabbage,,,28,1348
+1793,7,Megaton Cabbage,,,28,1349
+1794,7,Miniature Cabbage,,,28,1350
+1795,7,Ruby Perfection Cabbage,,,28,1351
+1796,7,Savoy King Cabbage,,,28,1352
+1797,7,Alcosa Savoy Cabbage,,,28,1353
+1798,7,Red Express Cabbage,,,28,1354
+1799,7,Vertus Savoy Cabbage,,,28,1355
+1800,7,Mammoth Red Rock,,,28,1355
+1801,7,Super Red 80,,,28,1357
+1802,7,Red Jewel,,,28,1358
+1803,7,Os Cross Cabbage,,,28,1359
+1804,7,Cherry Belle Radish,,,31,1360
+1805,7,French Breakfast Radish,,,31,1361
+1806,7,Daikon Radish,,,31,1362
+1807,7,Watermelon Radish,,,31,1363
+1808,7,Black Spanish Radish,,,31,1364
+1809,7,Easter Egg Radish,,,31,1365
+1810,7,White Icicle Radish,,,31,1366
+1811,7,Sakurajima Radish,,,31,1367
+1812,7,Munchego Radish,,,31,1368
+1813,7,Purple Plum Radish,,,31,1369
+1814,7,Saxa II Radish,,,31,1370
+1815,7,German Giant Radish,,,31,1371
+1816,7,Red King Radish,,,31,1372
+1817,7,Helios Radish,,,31,1373
+1818,7,Helios Radish,,,31,1374
+1819,7,Rat-Tailed Radish,,,31,1375
+1820,7,China Rose Radish,,,31,1376
+1821,7,Miyashige White Radish,,,31,1377
+1822,7,Sparkler Radish,,,31,1378
+1823,7,Crimson Giant Radish,,,31,1379
+1824,7,Fire and Ice Radish,,,31,1380
+1825,7,Minowase Radish,,,31,1381
+1826,7,Lady Slipper Radish,,,31,1382
+1827,7,April Cross Radish,,,31,1383
+1828,7,Long Scarlet Radish,,,31,1384
+1829,7,Cincinnati Market Radish,,,31,1385
+1830,7,Pink Beauty Radish,,,31,1386
+1831,7,Dragon Radish,,,31,1387
+1832,7,Chinese Green Radish,,,31,1388
+1833,26,Sugar Baby Watermelon,,,32,1392
+1834,26,Crimson Sweet Watermelon,,,32,1393
+1835,26,Charleston Gray Watermelon,,,32,1394
+1836,26,Jubilee Watermelon,,,32,1395
+1837,26,Yellow Crimson Watermelon,,,32,1396
+1838,26,Moon and Stars Watermelon,,,32,1397
+1839,26,Black Diamond Watermelon,,,32,1398
+1840,26,Golden Midget Watermelon,,,32,1399
+1841,26,Orangeglo Watermelon,,,32,1400
+1842,26,Tom Watson Watermelon,,,32,1401
+1843,26,Yellow Doll Watermelon,,,32,1402
+1844,26,Tendersweet Orange Watermelon,,,32,1403
+1845,26,Sweet Princess Watermelon,,,32,1404
+1846,26,Klondike Blue Ribbon Watermelon,,,32,1405
+1847,26,Cream of Saskatchewan Watermelon,,,32,1406
+1848,26,Desert King Watermelon,,,32,1407
+1849,26,Dixie Queen Watermelon,,,32,1408
+1850,26,Mickylee Watermelon,,,32,1409
+1851,26,Georgia Rattlesnake Watermelon,,,32,1410
+1852,26,Allsweet Watermelon,,,32,1411
+1853,26,Blacktail Mountain Watermelon,,,32,1412
+1854,26,Bush Sugar Baby Watermelon,,,32,1413
+1855,26,Golden Honey Watermelon,,,32,1414
+1856,26,Mountain Sweet Yellow Watermelon,,,32,1415
+1857,26,Peacock Watermelon,,,32,1416
+1858,26,Raspberry Watermelon,,,32,1417
+1859,26,Triple Sweet Watermelon,,,32,1418
+1860,26,Congo Watermelon,,,32,1419
+1861,26,Calsweet Watermelon,,,32,1420
+1862,26,Zucchino Watermelon,,,32,1421
+1863,26,Starlight Watermelon,,,32,1422
+1864,26,Janosik Watermelon,,,32,1423
+1865,26,Legacy Watermelon,,,32,1424
+1866,26,Scarlet Rose Watermelon,,,32,1425
+1867,26,Picnic Watermelon,,,32,1426
+1868,26,Vanilla Cream Watermelon,,,32,1427
+1869,26,Sunshine Yellow Watermelon,,,32,1428
+1870,26,Shiny Boy Watermelon,,,32,1429
+1871,26,King of Hearts Watermelon,,,32,1430
+1872,26,Harmony Watermelon,,,32,1431
+1873,26,Queen of Hearts Watermelon,,,32,1432
+1874,26,Amarillo Watermelon,,,32,1433
+1875,26,Lunabelle Watermelon,,,32,1434
+1876,8,Albion,,,33,1435
+1877,8,Camarosa,,,33,1436
+1878,8,Chandler,,,33,1437
+1879,8,Seascape,,,33,1438
+1880,8,Honeoye,,,33,1439
+1881,8,Allstar,,,33,1440
+1882,8,Ozark Beauty,,,33,1441
+1883,8,Tristar,,,33,1442
+1884,8,Jewel,,,33,1443
+1885,8,Fort Laramie,,,33,1444
+1886,8,Earliglow,,,33,1445
+1887,8,Festival,,,33,1446
+1888,8,Mara des Bois,,,33,1447
+1889,8,Sweet Charlie,,,33,1448
+1890,8,Sparkle,,,33,1449
+1891,8,Quinault,,,33,1450
+1892,8,Sequoia,,,33,1451
+1893,8,Monterey,,,33,1452
+1894,8,Charlotte,,,33,1453
+1895,8,Elan,,,33,1454
+1896,8,Gaviota,,,33,1455
+1897,8,Portola,,,33,1456
+1898,8,Fresca,,,33,1457
+1899,8,Fragaria Vesca (Wild Strawberry),,,33,1458
+1900,8,Rügen,,,33,1459
+1901,8,Temptation,,,33,1460
+1902,8,Malwina,,,33,1461
+1903,8,Sonata,,,33,1462
+1904,8,Gariguette,,,33,1463
+1905,8,Roxana,,,33,1464
+1906,8,Marshmello,,,33,1465
+1907,8,Vibrant,,,33,1466
+1908,8,Elsanta,,,33,1467
+1909,8,Korona,,,33,1468
+1910,8,Maxim,,,33,1469
+1911,8,Aromas,,,33,1470
+1912,8,Florence,,,33,1471
+1913,8,Senga Sengana,,,33,1472
+1914,8,Toscana,,,33,1473
+1915,8,Red Gauntlet,,,33,1474
+1916,8,Duke,,,34,1475
+1917,8,Bluecrop,,,34,1476
+1918,8,Patriot,,,34,1477
+1919,8,Legacy,,,34,1478
+1920,8,Jersey,,,34,1479
+1921,8,Elliott,,,34,1480
+1922,8,Northland,,,34,1481
+1923,8,Rubel,,,34,1482
+1924,8,Blueray,,,34,1483
+1925,8,Spartan,,,34,1484
+1926,8,Aurora,,,34,1485
+1927,8,Brigitta,,,34,1486
+1928,8,Chandler,,,34,1487
+1929,8,Sunshine Blue,,,34,1488
+1930,8,Misty,,,34,1489
+1931,8,ONeal,,,34,1490
+1932,8,Emerald,,,34,1491
+1933,8,Jewel,,,34,1492
+1934,8,Sharpblue,,,34,1493
+1935,8,Star,,,34,1494
+1936,8,Biloxi,,,34,1495
+1937,8,Powderblue,,,34,1496
+1938,8,Brightwell,,,34,1497
+1939,8,Tifblue,,,34,1498
+1940,8,Climax,,,34,1499
+1941,8,Premier,,,34,1500
+1942,8,Garden Blue,,,34,1501
+1943,8,Woodard,,,34,1502
+1944,8,Briteblue,,,34,1503
+1945,8,Pink Lemonade,,,34,1504
+1946,8,Tophat,,,34,1505
+1947,8,Sunset Blue,,,34,1506
+1948,8,Darrow,,,34,1507
+1949,8,Bluejay,,,34,1508
+1950,8,Pink Champagne,,,34,1509
+1951,8,Little Giant,,,34,1510
+1952,8,Reka,,,34,1511
+1953,8,Patty,,,34,1512
+1954,8,Herbert,,,34,1513
+1955,8,Bluegold,,,34,1514
+1956,8,Nelson,,,34,1515
+1957,8,Puru,,,34,1516
+1958,8,Polaris,,,34,1517
+1959,12,Hass (Most Common),,,35,1518
+1960,12,Fuerte,,,35,1519
+1961,12,Bacon,,,35,1520
+1962,12,Zutano,,,35,1521
+1963,12,Pinkerton,,,35,1522
+1964,12,Reed,,,35,1523
+1965,12,Gwen,,,35,1524
+1966,12,Lamb Hass,,,35,1525
+1967,12,Sharwil,,,35,1526
+1968,12,Choquette,,,35,1527
+1969,12,Mexicola,,,35,1528
+1970,12,Wurtz,,,35,1529
+1971,12,Holiday,,,35,1530
+1972,12,Stewart,,,35,1531
+1973,12,Ettinger,,,35,1532
+1974,12,Sir Prize,,,35,1533
+1975,12,Nabal,,,35,1534
+1976,12,MacArthur,,,35,1535
+1977,12,Brooks,,,35,1536
+1978,12,Ardith,,,35,1537
+1979,12,Murrieta Green,,,35,1538
+1980,12,GEM,,,35,1539
+1981,12,Walter Hole,,,35,1540
+1982,12,Lula,,,35,1541
+1983,12,Monroe,,,35,1542
+1984,12,Donnie,,,35,1543
+1985,12,Kahaluu,,,35,1544
+1986,12,Hall,,,35,1545
+1987,12,Yamagata,,,35,1546
+1988,12,Fuerte Special,,,35,1547
+1989,12,Malama,,,35,1548
+1990,12,Day,,,35,1549
+1991,12,Winter Mexican,,,35,1550
+1993,12,Linda,,,35,1551
+1995,12,Ganter,,,35,1552
+1996,12,Simmonds,,,35,1553
+1997,12,Beardslee,,,35,1554
+1998,12,Wilma,,,35,1555
+1999,12,Tonnage,,,35,1556
+2000,23,Grain Sorghum,,,36,1557
+2001,23,Sweet Sorghum,,,36,1558
+2002,23,Forage Sorghum,,,36,1559
+2003,23,Sorghum-Sudan Grass Hybrid,,,36,1560
+2004,23,Brown Midrib Sorghum,,,36,1561
+2005,23,Photoperiod-Sensitive Sorghum,,,36,1562
+2006,23,White Sorghum,,,36,1563
+2007,23,Red Sorghum,,,36,1564
+2008,23,Black Sorghum,,,36,1565
+2009,23,Waxy Sorghum,,,36,1566
+2010,23,High-Tannin Sorghum,,,36,1567
+2011,23,Dual-Purpose Sorghum,,,36,1568
+2012,23,Pop Sorghum,,,36,1569
+2013,23,Drought-Tolerant Sorghum,,,36,1570
+2014,23,Nutraceutical Sorghum,,,36,1571
+2015,23,Bicolor Sorghum,,,36,1572
+2016,23,Low-Tannin Sorghum,,,36,1573
+2017,23,Purdue Sorghum,,,36,1574
+2018,23,Milo,,,36,1575
+2019,23,Sudangrass,,,36,1576
+2020,23,Tall Sorghum,,,36,1577
+2021,23,Short-Statured Sorghum,,,36,1578
+2022,23,Pearl Millet Sorghum,,,36,1579
+2023,23,Sorghum Bicolor,,,36,1580
+2024,23,Shallu,,,36,1581
+2025,23,Feterita,,,36,1582
+2026,23,Kaoliang,,,36,1583
+2027,23,Hegari,,,36,1584
+2028,23,Kafir,,,36,1585
+2029,23,Jowar,,,36,1586
+2030,23,Dekalb Sorghum,,,36,1587
+2031,23,Sorghum halepense (Johnsongrass),,,36,1588
+2032,23,Sugargraze,,,36,1589
+2033,23,Tifleaf 3,,,36,1590
+2034,23,M81-E,,,36,1591
+2035,23,Maceray,,,36,1592
+2036,23,Atlas,,,36,1593
+2038,23,Della,,,36,1594
+2039,23,Herold,,,36,1596
+2040,23,Nandyal,,,36,1597
+2041,23,CSV15,,,36,1598
+2042,23,SPV462,,,36,1599
+2043,23,SV2,,,36,1600
+2044,23,Chari,,,36,1601
+2045,23,M35-1,,,36,1602
+2046,23,Alyssa,,,36,1603
+2047,12,Two-Row Barley,,,35,1604
+2048,12,Six-Row Barley,,,35,1605
+2049,12,Hulless Barley,,,35,1606
+2050,12,Spring Barley,,,35,1607
+2051,12,Winter Barley,,,35,1608
+2052,12,Malting Barley,,,35,1609
+2053,12,Feed Barley,,,35,1610
+2054,12,Black Barley,,,35,1611
+2055,12,Naked Barley,,,35,1612
+2056,12,Bere Barley,,,35,1613
+2057,12,Manchurian Barley,,,35,1614
+2058,12,Piroline Barley,,,35,1615
+2059,12,Chevalier Barley,,,35,1616
+2060,12,Maris Otter,,,35,1617
+2061,12,Golden Promise,,,35,1618
+2062,12,Optic Barley,,,35,1619
+2063,12,Valticky Barley,,,35,1620
+2064,12,Barke Barley,,,35,1621
+2065,12,Hordeum Vulgare,,,35,1622
+2066,12,Steptoe Barley,,,35,1623
+2067,12,Brigadier Barley,,,35,1624
+2068,12,Fanfare Barley,,,35,1625
+2069,12,Cassata Barley,,,35,1626
+2070,12,Schooner Barley,,,35,1627
+2071,12,Commander Barley,,,35,1628
+2072,12,Bass Barley,,,35,1629
+2073,12,Scarlett Barley,,,35,1630
+2074,12,Conlon Barley,,,35,1631
+2075,12,Tibetan Barley,,,35,1632
+2076,12,Violetta Barley,,,35,1633
+2077,12,Essex Barley,,,35,1634
+2078,12,Princeton Barley,,,35,1635
+2079,12,Full Pint Barley,,,35,1636
+2080,12,Hana Barley,,,35,1637
+2081,12,Mirena Barley,,,35,1638
+2082,12,Reba Barley,,,35,1639
+2083,12,"	
+Wintmalt Barley",,,35,1640
+2084,12,Bowman Barley,,,35,1641
+2085,12,Dayton Barley,,,35,1642
+2086,12,Legacy Barley,,,35,1643
+2087,12,Synergy Barley,,,35,1644
+2088,12,Sebastian Barley,,,35,1645
+2089,12,Endeavour Barley,,,35,1646
+2090,12,Marthe Barley,,,35,1647
+2091,12,Skiff Barley,,,35,1648
+2092,12,Balder Barley,,,35,1649
+2093,12,Odyssey Barley,,,35,1650
+2094,12,Pixie Barley,,,35,1651
+2095,12,Capuchino Barley,,,35,1652
+2096,12,Astor Barley,,,35,1653
+2097,23,Common Oats,,,38,1655
+2098,23,Hulless Oats,,,38,1656
+2099,23,Red Oats,,,38,1657
+2100,23,Black Oats,,,38,1658
+2101,23,Naked Oats,,,38,1659
+2102,23,White Oats,,,38,1660
+2103,23,Side Oats,,,38,1661
+2104,23,Cayuse Oats,,,38,1662
+2105,23,Everleaf Oats,,,38,1663
+2106,23,Jerry Oats,,,38,1664
+2107,23,Monida Oats,,,38,1665
+2108,23,Vista Oats,,,38,1666
+2109,23,TAMO 606 Oats,,,38,1667
+2110,23,Reins Oats,,,38,1668
+2111,23,Garry Oats,,,38,1669
+2112,23,Norline Oats,,,38,1670
+2113,23,Dane Oats,,,38,1671
+2114,23,Rough Oats,,,38,1672
+2115,23,Tabor Oats,,,38,1673
+2116,23,Ogle Oats,,,38,1674
+2117,23,Flavia Oats,,,38,1675
+2118,23,Dominator Oats,,,38,1676
+2119,23,Firth Oats,,,38,1677
+2120,23,Coker 227 Oats,,,38,1678
+2121,23,Beauregard Oats,,,38,1679
+2122,23,Cavalier Oats,,,38,1680
+2123,23,Buck Forage Oats,,,38,1681
+2124,23,Armor Oats,,,38,1682
+2125,23,Shelby 427 Oats,,,38,1683
+2126,23,Buffalo Oats,,,38,1684
+2127,23,Green Oats,,,38,1685
+2128,23,Chilocco Oats,,,38,1686
+2129,23,Fawn Oats,,,38,1687
+2130,23,Kanota Oats,,,38,1688
+2131,23,Kodiak Oats,,,38,1689
+2132,23,Pennline Oats,,,38,1690
+2133,23,Nordan Oats,,,38,1691
+2134,23,Mammoth Oats,,,38,1692
+2135,23,Texas Red Oats,,,38,1693
+2136,23,Otana Oats,,,38,1694
+2137,23,California Red Oats,,,38,1695
+2138,23,Hazel Oats,,,38,1696
+2139,23,TAMO 411 Oats,,,38,1697
+2140,23,Sun II Oats,,,38,1698
+2141,23,Caddo Oats,,,38,1699
+2142,23,Fury Oats,,,38,1700
+2143,23,Cosaque Black Oats,,,38,1701
+2144,23,Reno Oats,,,38,1702
+2145,23,Darton Oats,,,38,1703
+2146,17,Peppermint,,,39,1704
+2147,17,Spearmint,,,39,1705
+2148,17,Chocolate Mint,,,39,1706
+2150,17,Pineapple Mint,,,39,1708
+2151,17,Corsican Mint,,,39,1709
+2152,17,Orange Mint,,,39,1710
+2153,17,Banana Mint,,,39,1711
+2154,17,Mojito Mint,,,39,1712
+2155,17,Ginger Mint,,,39,1713
+2156,17,Watermelon Mint,,,39,1714
+2157,17,Lavender Mint,,,39,1715
+2158,17,Kentucky Colonel Mint,,,39,1716
+2159,17,Pennyroyal Mint,,,39,1717
+2160,17,Curly Mint,,,39,1718
+2161,17,Basil Mint,,,39,1719
+2162,17,Apple Mint,,,39,1720
+2163,17,Horsemint,,,39,1721
+2164,17,Egyptian Mint,,,39,1722
+2165,17,Catmint,,,39,1723
+2166,17,Pine Mint,,,39,1724
+2167,17,Moroccan Mint,,,39,1725
+2168,17,Mentha Aquatica (Water Mint),,,39,1726
+2169,17,Variegated Pineapple Mint,,,39,1727
+2170,17,Anise Mint,,,39,1728
+2171,17,Korean Mint,,,39,1729
+2172,17,Field Mint,,,39,1730
+2173,17,Swiss Mint,,,39,1731
+2174,17,Wild Mint,,,39,1732
+2175,17,Mountain Mint,,,39,1733
+2176,17,Red Raripila Mint,,,39,1734
+2177,17,Fuzzy Mint,,,39,1735
+2178,17,Mentha Citrata (Bergamot Mint),,,39,1736
+2179,17,Lemon Mint,,,39,1737
+2180,17,Japanese Mint,,,39,1738
+2181,21,White Yam,,,43,1739
+2182,21,Purple Yam (Ube),,,43,1740
+2183,21,Yellow Yam,,,43,1741
+2184,21,Chinese Yam (Nagaimo),,,43,1742
+2185,21,West African Yam,,,43,1743
+2186,21,Lesser Yam (Dioscorea esculenta),,,43,1744
+2187,21,Water Yam (Dioscorea alata),,,43,1745
+2188,21,Mountain Yam,,,43,1746
+2189,21,Bush Yam,,,43,1747
+2190,21,Bitter Yam (Dioscorea dumetorum),,,43,1748
+2191,21,Ratalu (Indian Purple Yam),,,43,1749
+2192,21,Elephant Foot Yam (Suran),,,43,1750
+2193,21,Wild Yam,,,43,1751
+2194,21,Air Potato (Dioscorea bulbifera),,,43,1752
+2195,21,Okinawan Yam,,,43,1753
+2196,21,Angola Yam,,,43,1754
+2197,21,Guinea Yam,,,43,1755
+2198,21,Kokoro Yam,,,43,1756
+2199,21,Malaysian Yam,,,43,1757
+2200,21,Trinidad Yam,,,43,1758
+2201,17,Dasheen Taro,,,39,1759
+2202,17,Eddoe Taro,,,39,17609
+2203,17,Eddoe Taro,,,39,17609
+2204,21,Dasheen Taro,,,44,1759
+2205,21,Eddoe Taro,,,44,1760
+2206,21,Bun Long Taro,,,44,1761
+2207,21,Japanese Taro (Satoimo),,,44,1762
+2208,21,Cyrtosperma Taro,,,44,1763
+2209,21,Elephant Ear Taro,,,44,1764
+2210,21,Lehua Maoli Taro,,,44,1765
+2211,21,Piko Ula Taro,,,44,1766
+2212,21,Piko Kea Taro,,,44,1767
+2213,21,Thapthim Taro,,,44,1768
+2214,21,Bun Taro,,,44,1769
+2215,21,Malanga Taro,,,44,1770
+2217,21,Chinese Pink Taro,,,44,1771
+2218,21,Samoan Taro,,,44,1772
+2219,21,Kalo Pa‘akai Taro,,,44,1773
+2220,21,Pueo Taro,,,44,1774
+2221,21,Lauloa Taro,,,44,1775
+2222,21,Niuean Taro,,,44,1776
+2223,21,Yellow Taro,,,44,1777
+2224,21,Red Taro,,,44,1778
+2225,21,White Taro,,,44,1779
+2226,21,Pinanganak Taro,,,44,1780
+2227,21,Waihee Purple Taro,,,44,1781
+2228,21,Kahalu’u Taro,,,44,1782
+2229,21,Xanthosoma Taro,,,44,1783
+2230,21,Boga Taro,,,44,1784
+2231,21,Giant Taro (Alocasia macrorrhizos),,,44,1785
+2232,21,Peewee Taro,,,44,1786
+2233,19,Garden Pea (English Pea),,,45,1787
+2234,19,Snow Pea,,,45,1788
+2235,19,Sugar Snap Pea,,,45,1789
+2236,19,Marrowfat Pea,,,45,1790
+2237,19,Petit Pois,,,45,1791
+2238,19,Lincoln Pea,,,45,1792
+2239,19,Alderman Pea (Tall Telephone),,,45,1793
+2240,19,Wando Pea,,,45,1794
+2241,19,Golden Sweet Pea,,,45,1795
+2242,19,Purple Podded Pea,,,45,1796
+2243,19,Blue Podded Pea,,,45,1797
+2244,19,Mangetout,,,45,1798
+2245,19,Rondo Pea,,,45,1799
+2246,19,Green Arrow Pea,,,45,1800
+2247,19,Knight Pea,,,45,1801
+2248,19,Novella II Pea,,,45,1802
+2249,19,Mister Big Pea,,,45,1803
+2250,19,Kelvedon Wonder Pea,,,45,1804
+2251,19,Early Onward Pea,,,45,1805
+2252,19,Oregon Sugar Pod II,,,45,1806
+2253,19,Tom Thumb Pea,,,45,1807
+2254,19,Jof Pea,,,45,1809
+2255,19,Sugar Daddy Pea,,,45,1810
+2256,19,Progress No. 9 Pea,,,45,1811
+2257,19,Cascadia Pea,,,45,1812
+2258,19,Maxigolt Pea,,,45,1813
+2259,19,Carouby de Maussane,,,45,1814
+2260,19,Terrain Pea,,,45,1815
+2261,19,Little Marvel Pea,,,45,1816
+2262,19,Dwarf Gray Sugar Pea,,,45,1817
+2263,19,Sugar Ann Pea,,,45,1818
+2264,19,Victoria Pea,,,45,1819
+2265,19,Resealable Pea,,,45,1820
+2266,19,Peas-in-a-Pot,,,45,1821
+2267,9,Cape Fear,,,48,1822
+2268,9,Pawnee,,,48,1823
+2269,9,Desirable,,,48,1824
+2270,9,Choctaw,,,48,1825
+2271,9,Elliott,,,48,1826
+2272,9,Stuart,,,48,1827
+2273,9,Caddo,,,48,1828
+2274,9,Kiowa,,,48,1829
+2275,9,Sumner,,,48,1830
+2276,9,Cheyenne,,,48,1831
+2277,9,Sioux,,,48,1832
+2278,9,Kanza,,,48,1833
+2279,9,Mohawk,,,48,1834
+2280,9,Chickasaw,,,48,1835
+2281,9,Western Schley,,,48,1836
+2282,9,Forkert,,,48,1837
+2283,9,Oconee,,,48,1838
+2284,9,Gloria Grande,,,48,1839
+2285,9,"	
+Shoshoni",,,48,1840
+2286,9,Maramec,,,48,1841
+2287,9,Candy,,,48,1842
+2288,9,Mahan,,,48,1843
+2289,9,Creek,,,48,1844
+2290,9,Schley,,,48,1845
+2291,9,Evers,,,48,1846
+2292,9,Candy Pecans,,,48,1847
+2293,9,Melrose,,,48,1848
+2294,9,Excel,,,48,1849
+2295,9,Crockett,,,48,1850
+2296,9,Mandan,,,48,1850
+2301,9,Zinner,,,48,1852
+2302,9,Giles,,,48,1853
+2303,9,Hirschi,,,48,1854
+2304,9,Cape Fear Improved,,,48,1855
+2305,12,Black Beauty,,,51,1856
+2306,12,Ichiban,,,51,1857
+2307,12,Graffiti Eggplant,,,51,1858
+2308,12,Rosa Bianca,,,51,1859
+2309,12,Thai Eggplant,,,51,1860
+2310,12,Ping Tung Long,,,51,1861
+2311,12,White Eggplant,,,51,1862
+2312,12,Little Fingers,,,51,1863
+2313,12,Nubia,,,51,1864
+2314,12,Green Eggplant,,,51,1865
+2315,12,Japanese White Egg Eggplant,,,51,1866
+2316,12,Listada de Gandia,,,51,1867
+2317,12,Indian Eggplant (Brinjal),,,51,1868
+2318,12,Violet Knight,,,51,1869
+2319,12,Kermit Eggplant,,,51,1870
+2320,12,Turkish Orange,,,51,1871
+2321,12,Barbarella,,,51,1872
+2322,12,Purple Blush,,,51,1873
+2323,12,Pandora Striped Rose,,,51,1874
+2324,12,Rotonda Bianca Sfumata di Rosa,,,51,1875
+2325,12,Violetta Lunga,,,51,1876
+2326,12,Casper,,,51,1877
+2327,12,Thai Lavender Frog Eggplant,,,51,1878
+2328,12,Aswad,,,51,1879
+2329,12,Tango,,,51,1880
+2330,7,Black Beauty,,,52,1881
+2331,7,Cocozelle,,,52,1882
+2332,7,Golden Zucchini,,,52,1883
+2333,7,Costata Romanesco,,,52,1884
+2334,7,Ronde de Nice,,,52,1885
+2335,7,Magda,,,52,1886
+2336,7,Pattypan,,,52,1887
+2337,7,Tromboncino,,,52,1888
+2338,7,Zephyr,,,52,1889
+2339,7,Bianco di Trieste,,,52,1890
+2340,7,Yellow Crookneck,,,52,1891
+2341,7,Caserta,,,52,1892
+2342,7,Fordhook,,,52,1893
+2343,7,Gadzukes,,,52,1894
+2344,7,Raven,,,52,1895
+2345,7,Eight Ball,,,52,1896
+2346,7,Clarimore,,,52,1897
+2347,7,Lebanese White Bush,,,52,1898
+2348,7,Floridor,,,52,1899
+2349,7,Golden Glory,,,52,1900
+2350,7,Sundrop,,,52,1901
+2351,7,Spineless Perfection,,,52,1902
+2352,7,Hybrid Midnight,,,52,1903
+2353,7,Nimba,,,52,1904
+2354,7,Parador,,,52,1905
+2355,7,Partenon,,,52,1906
+2356,24,California Wonder,,,53,1907
+2357,24,Bell Boy,,,53,1908
+2358,24,Purple Beauty,,,53,1909
+2360,24,Golden California Wonder,,,53,1910
+2361,24,Red Knight,,,53,1911
+2362,24,Sweet Chocolate,,,53,1912
+2363,24,Orange Sun,,,53,1913
+2364,24,King Arthur,,,53,1914
+2365,24,Corno di Toro,,,53,1915
+2366,24,Keystone Resistant Giant,,,53,1916
+2367,24,Big Bertha,,,53,1917
+2368,24,Early Sunsation,,,53,1918
+2369,24,Canary Bell,,,53,1919
+2370,24,Valencia,,,53,1920
+2371,24,Gourmet,,,53,1921
+2372,24,Lady Bell,,,53,1922
+2373,24,Islander,,,53,1923
+2374,24,Orange Blaze,,,53,1924
+2375,24,Merlot,,,53,1925
+2376,24,Redstart,,,53,1926
+2377,24,Yolo Wonder,,,53,1927
+2378,24,Sweet Banana,,,53,1928
+2379,24,Blushing Beauty,,,53,1929
+2380,24,Mozart,,,53,1930
+2381,24,Biscayne,,,53,1931
+2382,24,Bellamira,,,53,1932
+2383,24,Lava Red,,,53,1933
+2384,24,Candy Apple,,,53,1934
+2385,24,Giant Aconcagua,,,53,1935
+2386,24,Marconi Red,,,53,1936
+2387,24,Jupiter,,,53,1937
+2388,24,Vidi,,,53,1938
+2400,7,Clemson Spineless,,,54,1939
+2401,7,Red Burgundy,,,54,1940
+2402,7,Jing Orange,,,54,1941
+2403,7,Emerald,,,54,1942
+2404,7,Star of David,,,54,1943
+2405,7,Perkins Long Pod,,,54,1944
+2406,7,Louisiana Green Velvet,,,54,1945
+2407,7,Cow Horn,,,54,1946
+2408,7,Silver Queen,,,54,1947
+2409,7,Annie Oakley II,,,54,1948
+2410,7,Hill Country Red,,,54,1949
+2411,7,Bowling Red,,,54,1950
+2412,7,Lee,,,54,1951
+2413,7,Stewarts Zeebest,,,54,1952
+2414,7,Heavy Hitter,,,54,1953
+2415,7,African Xylopod,,,54,1954
+2416,7,Alabama Red,,,54,1955
+2417,7,Eagle Pass,,,54,1956
+2418,7,Fife Creek Cowhorn,,,54,1957
+2419,7,Burmese,,,54,1958
+2420,7,Cajun Delight,,,54,1959
+2421,7,Chant,,,54,1960
+2422,7,Becks Big Buck,,,54,1961
+2423,7,Green Velvet,,,54,1962
+2424,7,Texas Hill Country,,,54,1963
+2425,25,Connecticut Field,,,56,1964
+2427,25,Jack O Lantern,,,56,1965
+2428,25,Sugar Pie,,,56,1966
+2429,25,Big Max,,,56,1967
+2430,25,Atlantic Giant,,,56,1968
+2431,25,Howden,,,56,1969
+2432,25,Cinderella (Rouge Vif d Etampes),,,56,1970
+2433,25,Jarrahdale,,,56,1971
+2434,25,Fairytale,,,56,1972
+2435,25,Lumina,,,56,1973
+2436,25,Baby Boo,,,56,1974
+2437,25,Hokkaido Red Kuri,,,56,1975
+2438,25,Kabocha,,,56,1976
+2439,25,Blue Hubbard,,,56,1977
+2440,25,Marina di Chioggia,,,56,1978
+2441,25,Musquee de Provence,,,56,1979
+2442,25,White Ghost,,,56,1980
+2443,25,Wee Be Little,,,56,1981
+2444,25,Casper,,,56,1982
+2445,25,Pepitas,,,56,1983
+2446,25,Flat White Boer Ford,,,56,1983
+2447,25,Winter Luxury,,,56,1985
+2448,25,Long Island Cheese,,,56,1986
+2449,25,Orange Smoothie,,,56,1987
+2450,25,Small Sugar,,,56,1988
+2451,25,Jack Be Little,,,56,1989
+2452,25,Speckled Hound,,,56,1990
+2453,25,New England Pie,,,56,1991
+2454,25,Knucklehead,,,56,1992
+2455,25,Galeux d Eysines,,,56,1993
+2456,25,Porcelain Doll,,,56,1994
+2457,25,Big Moon,,,56,1995
+2458,25,Munchkin,,,56,1996
+2459,25,Amish Pie,,,56,1997
+2460,7,Catskill,,,58,1998
+2461,7,Long Island Improved,,,58,1999
+2462,7,Jade Cross,,,58,2000
+2463,7,Diablo,,,58,2001
+2464,7,Oliver,,,58,2002
+2465,7,Dagan,,,58,2003
+2466,7,Red Ball,,,58,2004
+2467,7,Rubine,,,58,2005
+2468,7,Gustus,,,58,2006
+2469,7,Hestia,,,58,2007
+2470,7,Maximus,,,58,2008
+2471,7,Churchill,,,58,2009
+2472,7,Falstaff,,,58,2010
+2473,7,Content,,,58,2011
+2474,7,Bubbles,,,58,2012
+2475,7,Roodnerf,,,58,2013
+2476,7,Igor,,,58,2014
+2477,7,Nelson,,,58,2015
+2478,7,Tasty Nuggets,,,58,2016
+2479,7,Martinus,,,58,2017
+2480,7,Green Globe,,,59,2018
+2481,7,Violetto,,,59,2019
+2482,7,Romanesco,,,59,2020
+2483,7,Imperial Star,,,59,2021
+2484,7,Big Heart,,,59,2022
+2485,7,Purple of Romagna,,,59,2023
+2486,7,Sangria,,,59,2024
+2487,7,Jerusalem Artichoke,,,59,2025
+2488,7,Globe Artichoke,,,59,2026
+2489,7,Chianti,,,59,2027
+2490,7,Emerald,,,59,2028
+2491,7,Opera,,,59,2029
+2492,7,Tavor,,,59,2030
+2493,7,Blanca de Tudela,,,59,2031
+2494,7,Sierra,,,59,2032
+2495,7,Fiesole,,,59,2032
+2496,7,Fiesole,,,59,2033
+2497,7,Roman Purple,,,59,2034
+2498,7,Lorca,,,59,2035
+2499,7,Amethyst,,,59,2036
+2500,7,Gros Camus de Bretagne,,,59,2037
+2501,7,Salambo,,,59,2038
+2502,7,Violetta di Chioggia,,,59,2039
+2503,7,Tudela Blanca,,,59,2040
+2504,7,Omaha,,,59,2041
+2505,7,Madrigal,,,59,2042
+2506,7,Purple Sicilian,,,59,2043
+2507,7,American Flag,,,60,2044
+2508,7,Carentan,,,60,2045
+2509,7,Musselburgh,,,60,2046
+2510,7,King Richard,,,60,2047
+2511,7,Bandit,,,60,2048
+2512,7,Tadorna,,,60,2049
+2513,7,Lancelot,,,60,2050
+2514,7,Autumn Giant,,,60,2051
+2515,7,Pandora,,,60,2052
+2516,7,Albinstar,,,60,2053
+2517,7,Durabel,,,60,2054
+2518,7,Porbella,,,60,2055
+2519,7,Elephant,,,60,2056
+2520,7,Blue Solaise,,,60,2057
+2521,7,Bleu de Solaise,,,60,2058
+2522,7,Giant Musselburgh,,,60,2059
+2523,7,Prizewinner,,,60,2060
+2524,7,Goliath,,,60,2061
+2525,7,Verina,,,60,2062
+2526,7,Mercurial,,,60,2063
+2527,7,Hannibal,,,60,2064
+2528,7,Jolant,,,60,2065
+2529,7,Northern Lights,,,60,2066
+2530,7,Giant Winter,,,60,2067
+2531,7,Hilari,,,60,2068
+2532,7,Rally,,,60,2069
+2533,7,Oarsman,,,60,2070
+2534,7,Herkules,,,60,2071
+2535,7,Zermatt,,,60,2072
+2536,7,Sieger,,,60,2073
+2537,7,Lincoln,,,60,2074
+2538,7,Tornado,,,60,2075
+2539,7,Striker,,,60,2076
+2540,7,Pancho,,,60,2077
+2541,7,Dexter,,,60,2078
+2542,7,Bavaria,,,60,2079
+2543,7,St Victor,,,60,2080
+2544,7,Palace,,,60,2081
+2545,12,Smooth Cayenne,,,62,2082
+2546,12,Red Spanish,,,62,2083
+2547,12,Queen,,,62,2084
+2548,12,MD-2,,,62,2085
+2549,12,Sugarloaf,,,62,2086
+2550,12,Pernambuco,,,62,2087
+2551,12,Abacaxi,,,62,2089
+2552,12,Natal Queen,,,62,2090
+2553,12,Kew,,,62,2091
+2554,12,Mayan Gold,,,62,2092
+2555,12,Giant Kew,,,62,2093
+2556,12,Eleuthera,,,62,2094
+2557,12,Mauritius,,,62,2095
+2558,12,Panare,,,62,2096
+2559,12,Perola,,,62,2097
+2560,12,Hilo,,,62,2098
+2561,12,Queen Tahiti,,,62,2099
+2562,12,Santana,,,62,2100
+2563,12,Esmeralda,,,62,2101
+2564,12,Cabezona,,,62,2102
+2565,12,Golden Supreme,,,62,2103
+2566,12,Tainung No. 16,,,62,2104
+2567,12,Variegated Pink,,,62,2105
+2568,12,Alphonso,,,63,2174
+2569,12,Haden,,,63,2175
+2570,12,Ataulfo,,,63,2176
+2571,12,Kent,,,63,2177
+2572,12,Tommy Atkins,,,63,2178
+2573,12,Keitt,,,63,2179
+2574,12,Palmer,,,63,2180
+2575,12,Kesar,,,63,2181
+2576,12,Glen,,,63,2182
+2577,12,Nam Dok Mai,,,63,2183
+2578,12,Carrie,,,63,2184
+2579,12,Irwin,,,63,2185
+2580,12,Sindhri,,,63,2186
+2581,12,Julie,,,63,2187
+2582,12,Valencia Pride,,,63,2188
+2583,12,Amrapali,,,63,2189
+2584,12,Raspuri,,,63,2190
+2585,12,Langra,,,63,2191
+2586,12,Mallika,,,63,2192
+2587,12,Francis,,,63,2193
+2588,12,Neelum,,,63,2194
+2589,12,Dasheri,,,63,2195
+2590,12,Zill,,,63,2196
+2591,12,Fazli,,,63,2197
+2592,12,Chok Anan,,,63,2198
+2593,12,Totapuri,,,63,2199
+2594,12,Osteen,,,63,2200
+2595,12,Carabao,,,63,2201
+2596,12,Kentique,,,63,2202
+2597,12,Manzanillo,,,63,2203
+2598,12,Himsagar,,,63,2204
+2599,12,Parvin,,,63,2205
+2600,12,Alampur Baneshan,,,63,2206
+2601,12,Coconut Cream,,,63,2207
+2602,12,Red Lady,,,64,2208
+2603,12,Maradol,,,64,2209
+2604,12,Hawaiian Solo,,,64,2210
+2605,12,Sunrise,,,64,2211
+2606,12,Tainung No. 1,,,64,2212
+2607,12,Kapoho,,,64,2213
+2608,12,Formosa,,,64,2214
+2609,12,Sunset,,,64,2215
+2610,12,Pusa Nanha,,,64,2216
+2611,12,Mountain Papaya,,,64,2217
+2612,12,Kamiya,,,64,2218
+2613,12,Golden Papaya,,,64,2219
+2614,12,Tainung No. 2,,,64,2220
+2615,12,Caribbean Red,,,64,2221
+2616,12,Hortus Gold,,,64,2222
+2617,12,Sekaki,,,64,2223
+2618,12,Golden Yellow,,,64,2224
+2619,12,Sinta,,,64,2225
+2620,12,Papaya Nomes,,,64,2226
+2621,12,Thai Red,,,64,2227
+2622,12,Brazilian Golden,,,64,2228
+2623,12,Red Caribbean,,,64,2229
+2624,12,Amazon Red,,,64,2230
+2625,12,Royal Star,,,64,2231
+2626,12,Calimosa,,,64,2232
+2627,12,Concord,,,65,2233
+2628,12,Thompson Seedless,,,65,2234
+2629,12,Red Globe,,,65,2235
+2630,12,Moon Drops,,,65,2236
+2631,12,Cotton Candy,,,65,2237
+2632,12,Zinfandel,,,65,2238
+2633,12,Cabernet Sauvignon,,,65,2239
+2634,12,Pinot Noir,,,65,2240
+2635,12,Chardonnay,,,65,2242
+2636,12,Riesling,,,65,2243
+2637,12,Muscadine,,,65,2244
+2638,12,Sea Grape,,,65,2245
+2639,12,Crimson Seedless,,,65,2246
+2640,12,Black Corinth,,,65,2247
+2641,12,Kyoho,,,65,2248
+2642,12,Ruby Roman,,,65,2249
+2643,12,Sultana,,,65,2250
+2644,12,Niagara,,,65,2251
+2645,12,Isabella,,,65,2252
+2646,12,Flame Seedless,,,65,2253
+2647,12,Catawba,,,65,2254
+2648,12,Autumn Royal,,,65,2255
+2649,12,Alphonse Lavallée,,,65,2256
+2650,12,Cardinal,,,65,2257
+2651,12,Italia,,,65,2258
+2652,12,Scuppernong,,,65,2259
+2653,12,Baco Noir,,,65,2260
+2654,12,Petit Verdot,,,65,2261
+2655,12,Chenin Blanc,,,65,2262
+2656,12,Tempranillo,,,65,2263
+2657,12,Grenache,,,65,2264
+2658,12,Malbec,,,65,2265
+2659,12,Sangiovese,,,65,2266
+2660,12,Gewürztraminer,,,65,2267
+2661,12,Vermentino,,,65,2268
+2662,12,Syrah,,,65,2269
+2663,12,Petit Manseng,,,65,2270
+2664,12,Bartlett,,,65,2270
+2665,12,Bartlett,,,66,2271
+2666,12,Bosc,,,66,2272
+2667,12,Anjou,,,66,2273
+2668,12,Comice,,,66,2274
+2669,12,Forelle,,,66,2275
+2670,12,Seckel,,,66,2276
+2671,12,Asian Pear,,,66,2277
+2672,12,Concorde,,,66,2278
+2673,12,Starkrimson,,,66,2279
+2674,12,Taylors Gold,,,66,2280
+2675,12,Red Anjou,,,66,2281
+2676,12,Packham,,,66,2282
+2677,12,Abate Fetel,,,66,2283
+2678,12,Winter Nelis,,,66,2284
+2679,12,Clapps Favorite,,,66,2285
+2680,12,Conference,,,66,2286
+2681,12,Royal Riviera,,,66,2287
+2682,12,Beurré Hardy,,,66,2288
+2683,12,Alexandrine Douillard,,,66,2289
+2684,12,Pineapple Pear,,,66,2290
+2685,12,Kieffer,,,66,2291
+2686,12,Blakes Pride,,,66,2292
+2687,12,Magness,,,66,2293
+2688,12,Max Red Bartlett,,,66,2294
+2689,12,Jules Guyot,,,66,2295
+2690,12,Doyenné du Comice,,,66,2296
+2691,12,Foremost,,,66,2297
+2692,12,Louise Bonne of Jersey,,,66,2298
+2693,12,Tyson,,,66,2299
+2694,12,Beurré d Anjou,,,66,2300
+2696,12,Beurré Clairgeau,,,66,2301
+2697,12,Beurré Giffard,,,66,2302
+2698,12,Dana Hovey,,,66,2303
+2699,12,Hosui,,,66,2304
+2700,12,Shinseiki,,,66,2305
+2701,12,Elberta,,,67,2306
+2702,12,Redhaven,,,67,2307
+2703,12,O Henry,,,67,2308
+2704,12,Cresthaven,,,67,2309
+2705,12,Donut Peach,,,67,2310
+2706,12,White Lady,,,67,2311
+2707,12,Belle of Georgia,,,67,2312
+2708,12,Fay Elberta,,,67,2313
+2709,12,Early Amber,,,67,2314
+2710,12,Flameprince,,,67,2315
+2711,12,Golden Jubilee,,,67,2316
+2712,12,Harvester,,,67,2317
+2713,12,Loring,,,67,2318
+2714,12,Nectar,,,67,2319
+2715,12,Redskin,,,67,2320
+2716,12,Reliance,,,67,2321
+2717,12,Snow Beauty,,,67,2322
+2718,12,Tropi-berta,,,67,2323
+2719,12,Julyprince,,,67,2324
+2720,12,Contender,,,67,2325
+2721,12,Autumn Flame,,,67,2326
+2722,12,Babcock,,,67,2327
+2723,12,Baby Gold,,,67,2328
+2724,12,Coronet,,,67,2329
+2725,12,J.H. Hale,,,67,2330
+2726,12,Indian Blood,,,67,2331
+2727,12,Golden Glory,,,67,2332
+2728,12,Glohaven,,,67,2333
+2729,12,Hale Haven,,,67,2334
+2730,12,Frost,,,67,2335
+2731,12,Galaxy,,,67,2336
+2732,12,Elegant Lady,,,67,2337
+2733,12,Topaz,,,67,2338
+2734,12,Sugar Lady,,,67,2339
+2735,12,Suncrest,,,67,2340
+2736,12,Springcrest,,,67,2341
+2737,12,Scarlet Pearl,,,67,2342
+2738,12,June Gold,,,67,2343
+2739,12,White Heath Cling,,,67,2344
+2740,12,Santa Rosa,,,68,2345
+2741,12,Stanley,,,68,2346
+2742,12,Satsuma,,,68,2347
+2743,12,Elephant Heart,,,68,2348
+2744,12,Damson,,,68,2349
+2745,12,Green Gage,,,68,2350
+2746,12,Mirabelle,,,68,2351
+2747,12,Methley,,,68,2352
+2748,12,Shiro,,,68,2353
+2749,12,Black Amber,,,68,2354
+2750,12,Beauty,,,68,2355
+2751,12,Ozark Premier,,,68,2356
+2752,12,Blue Damson,,,68,2357
+2753,12,Italian Prune,,,68,2358
+2754,12,President,,,68,2359
+2755,12,Sugar Plum,,,68,2360
+2756,12,Greengage,,,68,2361
+2757,12,Kelsey,,,68,2362
+2758,12,Burbank,,,68,2363
+2759,12,Golden Nectar,,,68,2364
+2760,12,Friar,,,68,2365
+2761,12,Flavor King,,,68,2366
+2762,12,Empress,,,68,2367
+2763,12,Howard Miracle,,,68,2368
+2764,12,Mariposa,,,68,2369
+2765,12,Bubblegum Plum,,,68,2370
+2766,12,Reine Claude,,,68,2371
+2767,12,French Prunee,,,68,2372
+2768,12,Black Beauty,,,68,2373
+2769,12,Inca,,,68,2374
+2770,12,Redheart,,,68,2375
+2771,12,Victoria,,,68,2376
+2772,12,Toka,,,68,2377
+2773,12,Autumn Rosa,,,68,2378
+2774,12,Laroda,,,68,2379
+2775,12,Queen Rosa,,,68,2380
+2776,12,Green Reine Claude,,,68,2382
+2777,12,Bing,,,69,2383
+2778,12,Rainier,,,69,2384
+2779,12,Montmorency,,,69,2385
+2780,12,Sweetheart,,,69,2386
+2781,12,Lapins,,,69,2387
+2782,12,Black Tartarian,,,69,2388
+2783,12,Stella,,,69,2389
+2784,12,Chelan,,,69,2390
+2785,12,Van,,,69,2391
+2786,12,Early Richmond,,,69,2392
+2787,12,Early Richmond,,,69,2392
+2788,12,Balaton,,,69,2393
+2789,12,Morello,,,69,2394
+2790,12,Napoleon,,,69,2395
+2791,12,English Morello,,,69,2396
+2792,12,Lambert,,,69,2397
+2793,12,Cristobalina,,,69,2398
+2794,12,Maraschino,,,69,2399
+2795,12,Amarena,,,69,2400
+2796,12,Schmidt,,,69,2401
+2797,12,Glacier,,,69,2402
+2798,12,Santina,,,69,2403
+2799,12,Sunburst,,,69,2404
+2800,12,Skeena,,,69,2405
+2801,12,Emperor Francis,,,69,2406
+2802,12,Corum,,,69,2407
+2803,12,Royal Ann,,,69,2408
+2804,12,Hudson,,,69,2409
+2805,12,Regina,,,69,2410
+2806,12,Tulare,,,69,2411
+2807,12,Meteor,,,69,2412
+2808,12,North Star,,,69,2412
+2809,12,North Star,,,69,2413
+2810,12,Ulster,,,69,2414
+2811,12,Kordia,,,69,2415
+2812,12,Cavalier,,,69,2416
+2813,12,Compact Stella,,,69,2417
+2814,12,Sumtare,,,69,2418
+2815,12,Giant,,,69,2419
+2816,12,Royal Crimson,,,69,2420
+2817,12,Mazzard,,,69,2421
+2818,12,Sour Cherries,,,69,2422
+2819,12,Duke Cherries,,,69,2423
+2820,12,Danube,,,69,2424
+2821,12,Evans,,,69,2425
+2822,12,Hayward,,,70,2426
+2823,12,Golden Kiwi,,,70,2427
+2824,12,Arctic Kiwi,,,70,2428
+2825,12,Hardy Kiwi,,,70,2429
+2826,12,Red Kiwi,,,70,2430
+2827,12,Jintao,,,70,2431
+2828,12,Blake,,,70,2432
+2829,12,Saanichton,,,70,2433
+2830,12,Elmwood,,,70,2434
+2831,12,Kiwiberry,,,70,2435
+2832,12,Tomuri,,,70,2436
+2833,12,Matua,,,70,2437
+2834,12,Vincent,,,70,2438
+2835,12,Ananasnaya,,,70,2439
+2836,12,Issai,,,70,2440
+2837,12,Ken’s Red,,,70,2441
+2838,12,Chang Bai Mountain,,,70,2442
+2839,12,Mega Kiwi,,,70,2443
+2840,12,Weiki,,,70,2444
+2841,12,Monty,,,70,2445
+2842,12,Boskoop,,,70,2446
+2843,12,Boerica,,,70,2447
+2844,12,Bruno,,,70,2448
+2845,12,Tewi,,,70,2449
+2846,12,Genryoku,,,70,2450
+2847,12,Minkigold,,,70,2451
+2848,12,Black Mission,,,71,2452
+2850,12,Kadota,,,71,2454
+2852,12,Adriatic,,,71,2456
+2853,12,Celeste,,,71,2457
+2854,12,Panache,,,71,2458
+2855,12,LSU Gold,,,71,2459
+2856,12,LSU Purple,,,71,2460
+2857,12,Violette de Bordeaux,,,71,2461
+2858,12,Alma,,,71,2462
+2859,12,Desert King,,,71,2463
+2860,12,Excel,,,71,2464
+2861,12,Ischia,,,71,2465
+2862,12,Verte,,,71,2466
+2863,12,Petite Negra,,,71,2467
+2864,12,Chicago Hardy,,,71,2468
+2865,12,Texas Everbearing,,,71,2469
+2866,12,Ronde de Bordeaux,,,71,2470
+2867,12,Marseilles,,,71,2471
+2868,12,White Genoa,,,71,2472
+2869,12,Caprifig,,,71,2473
+2870,12,Ventura,,,71,2474
+2871,12,Conadria,,,71,2475
+2872,12,Trojan,,,71,2476
+2873,12,San Pedro,,,71,2477
+2874,12,Magnolia,,,71,2478
+2875,12,Brunswick,,,71,2479
+2876,12,Col de Dame,,,71,2480
+2877,12,Lattarula,,,71,2481
+2878,12,Blue Celeste,,,71,2482
+2879,12,Osborn Prolific,,,71,2483
+2881,12,Brown Turkey,,,71,2485
+2883,12,Calimyrna,,,71,2487
+2885,12,Wonderful,,,72,2516
+2886,12,Angel Red,,,72,2517
+2887,12,Parfianka,,,72,2518
+2888,12,Granada,,,72,2519
+2889,12,Eversweet,,,72,2520
+2890,12,Kandahar Early,,,72,2521
+2891,12,Pink Satin,,,72,2522
+2892,12,Red Silk,,,72,2523
+2893,12,Ambrosia,,,72,2524
+2894,12,Russian 26,,,72,2525
+2895,12,Sweet,,,72,2526
+2896,12,Sharp Velvet,,,72,2527
+2897,12,Gissarskii Rozovyi,,,72,2528
+2898,12,Desertnyi,,,72,2529
+2899,12,Kashmir Blend,,,72,2530
+2900,12,Al Sirin Nar,,,72,2531
+2901,12,Golden Globe,,,72,2532
+2902,12,Purple Heart,,,72,2533
+2903,12,Ariana,,,72,2534
+2904,12,Medovyi Vahsha,,,72,2535
+2905,12,Salavatski,,,72,2536
+2906,12,Phoenicia,,,72,2537
+2907,12,Nochi Shibori,,,72,2538
+2908,12,Balegal,,,72,2539
+2909,12,Green Globe,,,72,2540
+2910,12,Sirenevyi,,,72,2541
+2911,12,Dente di Cavallo,,,72,2542
+2912,12,Haku Botan,,,72,2543
+2914,12,Tilton,,,73,2575
+2915,12,Blenheim,,,73,2576
+2916,12,Moonglow,,,73,2577
+2917,12,Harglow,,,73,2578
+2918,12,Patterson,,,73,2579
+2919,12,Goldcot,,,73,2580
+2920,12,Katy,,,73,2581
+2921,12,Royal,,,73,2582
+2922,12,Trevatt,,,73,2583
+2923,12,Superb,,,73,2584
+2924,12,Sundrop,,,73,2585
+2925,12,Tomcot,,,73,2586
+2926,12,Pioneer,,,73,2587
+2927,12,Manchurian,,,73,2588
+2928,12,Goldrich,,,73,2589
+2929,12,Kordia,,,73,2590
+2930,12,Bergeron,,,73,2591
+2931,12,Chinese Apricot,,,73,2592
+2932,12,Baldwin,,,73,2593
+2933,12,Brittany Gold,,,73,2594
+2934,12,Luther Burbank,,,73,2595
+2935,12,J.H. Hale,,,73,2596
+2936,12,Gold Kist,,,73,2597
+2937,12,Sierra,,,73,2598
+2938,12,Clyde,,,73,2599
+2939,12,Early Orange,,,73,2600
+2940,12,Royal Blenheim,,,73,2601
+2941,12,Tropic Gold,,,73,2602
+2942,12,Moorpark,,,73,2603
+2943,12,Wenatchee,,,73,2604
+2944,12,Flopert,,,73,2605
+2945,12,Brewster,,,73,2606
+2946,12,Pineapple,,,73,2607
+2947,12,Mademoiselle,,,73,2608
+2948,12,Common Guava,,,74,2609
+2949,12,Pink Guava,,,74,2610
+2950,12,White Guava,,,74,2611
+2951,12,Strawberry Guava,,,74,2612
+2952,12,Pineapple Guava,,,74,2613
+2953,12,Yellow Guava,,,74,2614
+2954,12,Tropical Guava,,,74,2615
+2955,12,Indian Guava,,,74,2616
+2956,12,Red Malaysian Guava,,,74,2617
+2957,12,Mexican Cream Guava,,,74,2618
+2958,12,Thai Guava,,,74,2619
+2959,12,Florida Guava,,,74,2620
+2960,12,Barbados Cherry Guava,,,74,2621
+2961,12,Korean Guava,,,74,2622
+2962,12,Red Flesh Guava,,,74,2623
+2963,12,Florida Pink Guava,,,74,2624
+2964,12,Hawaiian Guava,,,74,2625
+2965,12,Golden Guava,,,74,2626
+2966,12,Jamaican Guava,,,74,2627
+2967,12,Sweet Lemon Guava,,,74,2628
+2968,12,Cattley Guava,,,74,2629
+2969,12,Netted Guava,,,74,2630
+2970,12,Calabash Guava,,,74,2631
+2971,12,Cuba Guava,,,74,2632
+2972,12,Giant Guava,,,74,2633
+2973,12,Kwai Muk Guava,,,74,2634
+2974,12,Thai Pink Guava,,,74,2635
+2975,12,Fijian Guava,,,74,2636
+2976,12,Rio Grande Guava,,,74,2637
+2977,12,Peruvian Guava,,,74,2638
+2978,12,Siam Guava,,,74,2639
+2979,26,Hale’s Best Jumbo,,,75,2640
+2980,26,Sugar Rush,,,75,2641
+2981,26,Galia,,,75,2642
+2982,26,French Charentais,,,75,2643
+2983,26,Athena,,,75,2644
+2984,26,Ambrosia,,,75,2645
+2985,26,Early Sugar,,,75,2647
+2986,26,Cantaloupe Orange,,,75,2649
+2987,26,San Juan,,,75,2650
+2988,26,Piel de Sapo,,,75,2651
+2989,26,Hickok,,,75,2652
+2990,26,Golden Beauty,,,75,2653
+2991,26,Musk Melon,,,75,2654
+2992,26,Savor,,,75,2655
+2993,26,Mini Cantaloupe,,,75,2656
+2994,26,Tennessee Sweet,,,75,2657
+2995,26,Sierra Gold,,,75,2658
+2996,26,Arctic Queen,,,75,2659
+2997,26,Kirkland,,,75,2660
+2998,26,Cannonball,,,75,2661
+2999,26,Butterfly,,,75,2663
+3000,26,Orange Sherbet,,,75,2664
+3001,26,Elysian,,,75,2665
+3002,26,Cantaloupe de Provence,,,75,2666
+3003,26,Hawaiian Cantaloupe,,,75,2667
+3004,26,Tropic Sweet,,,75,2668
+3005,26,Cantaloupe Banana,,,75,2669
+3006,26,Cantaloupe Jewel,,,75,2670
+3007,26,Frosty,,,75,2671
+3008,26,Serenade,,,75,2672
+3009,26,Desert King,,,75,2673
+3010,23,White Quinoa,,,77,2675
+3011,23,Red Quinoa,,,77,2676
+3012,23,Black Quinoa,,,77,2677
+3013,23,Tri-Color Quinoa,,,77,2678
+3014,23,Royal Quinoa,,,77,2679
+3015,23,Quito Quinoa,,,77,2680
+3016,23,Cañihua,,,77,2681
+3017,23,Santo Domingo Quinoa,,,77,2682
+3018,23,Inca Red Quinoa,,,77,2683
+3019,23,Golden Quinoa,,,77,2684
+3020,23,Kaniwa,,,77,2685
+3021,23,Salinas Quinoa,,,77,2686
+3022,23,Giant Quinoa,,,77,2687
+3023,23,White Rain Quinoa,,,77,2688
+3024,23,Purple Quinoa,,,77,2689
+3025,23,Peruvian Quinoa,,,77,2690
+3026,23,Chinchero Quinoa,,,77,2691
+3027,23,Bicolor Quinoa,,,77,2692
+3028,23,Organic Quinoa,,,77,2693
+3029,23,Sativa Quinoa,,,77,2694
+3030,23,Qutrin Quinoa,,,77,2695
+3031,23,Black Salsify Quinoa,,,77,2696
+3032,23,Cheri Quinoa,,,77,2697
+3033,23,Oro Verde Quinoa,,,77,2698
+3034,23,Bolivian Quinoa,,,77,2699
+3035,23,Tawana Quinoa,,,77,2700
+3036,23,Sweet Quinoa,,,77,2701
+3037,23,Argentinian Quinoa,,,77,2702
+3038,23,Pearl Millet,,,78,2703
+3039,23,Foxtail Millet,,,78,2704
+3040,23,Proso Millet,,,78,2705
+3041,23,Finger Millet,,,78,2706
+3042,23,Barnyard Millet,,,78,2707
+3043,23,Little Millet,,,78,2708
+3044,23,Kodo Millet,,,78,2709
+3045,23,Japanese Millet,,,78,2710
+3046,23,Brown Top Millet,,,78,2711
+3047,23,Sorghum Millet,,,78,2712
+3048,23,Straw Millet,,,78,2713
+3049,23,Niger Millet,,,78,2714
+3050,23,Tropical Millet,,,78,2715
+3051,23,Broomcorn Millet,,,78,2716
+3052,23,Egyptian Millet,,,78,2717
+3053,23,Himalayan Millet,,,78,2718
+3054,23,Giant Millet,,,78,2719
+3055,23,Golden Millet,,,78,2720
+3056,23,Lankart Millet,,,78,2721
+3057,23,Teff Millet,,,78,2722
+3058,23,Black Millet,,,78,2723
+3059,23,Germinating Millet,,,78,2724
+3060,23,Red Millet,,,78,2725
+3061,23,Milo,,,78,2726
+3062,23,Chinese Millet,,,78,2727
+3063,23,Wild Millet,,,78,2728
+3064,23,Panicum Millet,,,78,2729
+3065,23,Sweet Millet,,,78,2730
+3066,23,Montana Millet,,,78,2731
+3067,23,Red Giant Millet,,,78,2732
+3068,23,Winter Rye,,,79,2733
+3069,23,Spring Rye,,,79,2734
+3070,23,Danko Rye,,,79,2735
+3071,23,Abruzzi Rye,,,79,2736
+3072,23,Imperial Rye,,,79,2737
+3073,23,Gazelle Rye,,,79,2738
+3074,23,Maton Rye,,,79,2739
+3075,23,KWS Bono Rye,,,79,2740
+3076,23,Lovaszpatonai Rye,,,79,2741
+3077,23,Prima Rye,,,79,2742
+3078,23,Elbon Rye,,,79,2743
+3079,23,Brasetto Rye,,,79,2744
+3080,23,Forest Rye,,,79,2745
+3081,23,Aroostook Rye,,,79,2746
+3082,23,Helltop Rye,,,79,2747
+3083,23,Merced Rye,,,79,2748
+3084,23,Puma Rye,,,79,2749
+3085,23,Sangaste Rye,,,79,2750
+3086,23,Ontario Winter Rye,,,79,2751
+3087,23,Hybrid Rye,,,79,2752
+3088,23,Hazlet Rye,,,79,2753
+3089,23,Merlin Rye,,,79,2754
+3090,23,Soviet Rye,,,79,2755
+3091,23,Reins Rye,,,79,2756
+3092,23,Quattro Rye,,,79,2757
+3093,23,Petkus Rye,,,79,2758
+3094,23,Caribou Rye,,,79,2759
+3095,23,Saracen Rye,,,79,2760
+3096,23,Almota Rye,,,79,2761
+3097,23,Slavic Rye,,,79,2762
+3098,23,Kustro Rye,,,79,2763
+3099,23,Bonel Rye,,,79,2764
+3100,23,Rapid Rye,,,79,2765
+3102,23,Carsten Rye,,,79,2766
+3103,23,Gaspard Rye,,,79,2767
+3104,23,Alpine Rye,,,79,2768
+3105,23,Triticale Rye,,,79,2769
+3106,23,Northland Rye,,,79,2770
+3107,23,Red Rye,,,79,2771
+3108,27,Buckweat Groat,,,80,0
+3109,27,Oat Groat,,,38,0
+3110,27,Wheat Groat,,,16,0
+3111,27,Rye Groat,,,79,0
+3112,27,Barley Groat,,,37,0
+3113,27,Triticale Groat,,,0,0
+3114,27,Spelt Groat,,,0,0
+3115,27,Millet Groat,,,78,0
+3116,23,Common Buckwheat,,,80,2772
+3117,23,Tartary Buckwheat,,,80,2773
+3118,23,Silverhull Buckwheat,,,80,2774
+3119,23,Japanese Buckwheat,,,80,2775
+3120,23,Mancan Buckwheat,,,80,2776
+3121,23,Mancan VNS Buckwheat,,,80,2777
+3122,23,Koto Buckwheat,,,80,2778
+3123,23,Hokkaido Buckwheat,,,80,2779
+3124,23,Vladimir Buckwheat,,,80,2780
+3125,23,Kashmir Buckwheat,,,80,2781
+3126,23,Bogatyr Buckwheat,,,80,2782
+3127,23,Red-Flowered Buckwheat,,,80,2783
+3128,23,Perennial Buckwheat,,,80,2784
+3129,23,Fagopyrum Tataricum,,,80,2785
+3130,23,Green Buckwheat,,,80,2786
+3131,23,Hybrid Buckwheat,,,80,2787
+3132,23,Prygun Buckwheat,,,80,2788
+3133,23,Kharkiv Buckwheat,,,80,2789
+3134,23,Early Russian Buckwheat,,,80,2790
+3135,23,Canadian Buckwheat,,,80,2791
+3136,23,Indian Buckwheat,,,80,2792
+3137,23,Emka Buckwheat,,,80,2793
+3138,23,Organic Buckwheat,,,80,2794
+3139,23,Vega Buckwheat,,,80,2795
+3140,23,Lileja Buckwheat,,,80,2796
+3141,23,Ukrainian Grey Buckwheat,,,80,2797
+3142,23,Buckwheat VNS,,,80,2798
+3143,23,Ningxia Buckwheat,,,80,2799
+3144,23,Grodno Buckwheat,,,80,2800
+3145,23,Altai Buckwheat,,,80,2801
+3146,23,Valley Buckwheat,,,80,2802
+3147,23,Russian Red Buckwheat,,,80,2803
+3148,23,Heirloom Buckwheat,,,80,2804
+3149,23,Golden Buckwheat,,,80,2805
+3150,11,Black Turtle,,,81,2806
+3151,11,Midnight Black,,,81,2807
+3152,11,Condor,,,81,2808
+3153,11,Valentine Black,,,81,2809
+3154,11,Blackhawk,,,81,2810
+3155,11,Jaguar,,,81,2811
+3156,11,Black Velvet,,,81,2812
+3157,11,Zorro,,,81,2813
+3158,11,Duke,,,81,2814
+3159,11,Eclipse,,,81,2815
+3160,11,Mercury,,,81,2816
+3161,11,Nighthawk,,,81,2817
+3162,11,Zenith,,,81,2818
+3163,11,Ebony King,,,81,2819
+3164,11,Orca,,,81,2820
+3165,11,Cherokee Black,,,81,2821
+3166,11,Tuxana,,,81,2822
+3167,11,Black Coco,,,81,2823
+3168,11,Mexican Black,,,81,2824
+3169,11,Dark Red Kidney,,,82,2825
+3170,11,Light Red Kidney,,,82,2826
+3171,11,White Kidney (Cannellini),,,82,2827
+3172,11,Purple Kidney Bean,,,82,2828
+3173,11,Red Nightfall,,,82,2829
+3174,11,California Red Kidney,,,82,2830
+3175,11,Montcalm Red Kidney,,,82,2831
+3176,11,Etna Red Kidney,,,82,2832
+3177,11,Royal Red Kidney,,,82,2833
+3178,11,Redhawk,,,82,2834
+3179,11,Celeste Kidney,,,82,2835
+3180,11,Flambo Kidney,,,82,2836
+3181,11,White Speckled Kidney,,,82,2837
+3182,11,Pink Speckled Kidney,,,82,2838
+3183,11,Nimba Kidney Bean,,,82,2839
+3184,11,Colorado Red Kidney,,,82,2840
+3185,11,Ruby Red Kidney,,,82,2841
+3186,11,Classic Pinto,,,83,2842
+3187,11,Oregon State Pinto,,,83,2843
+3188,11,Pinto 114,,,83,2844
+3189,11,Pinto Peruanito,,,83,2845
+3190,11,Earlired Pinto,,,83,2846
+3191,11,Red Mexican Pinto,,,83,2847
+3192,11,California Pinto,,,83,2848
+3193,11,Mayan Pinto,,,83,2849
+3194,11,Golden Pinto,,,83,2850
+3195,11,Hidalgo Pinto,,,83,2851
+3196,11,Pinto No. 1,,,83,2852
+3197,11,Nebraska Pinto,,,83,2853
+3198,11,Pinto Beans 962,,,83,2854
+3199,11,Speckled Pinto,,,83,2855
+3200,11,Early Pinto,,,83,2856
+3201,11,Wrens Pinto,,,83,2857
+3202,11,Williams 82,,,84,2858
+3203,11,Asgrow AG2730,,,84,2859
+3204,11,Cobb 45,,,84,2860
+3205,11,Hill 60,,,84,2861
+3206,11,Kentucky Wonder,,,84,2862
+3207,11,Dyna-Gro 39B20,,,84,2863
+3208,11,Harosoy,,,84,2864
+3209,11,Pioneer P22T26R,,,84,2865
+3210,11,S20-K2,,,84,2866
+3211,11,Progeny 49F2,,,84,2867
+3212,11,Stine 30EA12,,,84,2868
+3213,11,Noble 1,,,84,2869
+3214,11,Kirkland,,,84,2870
+3215,11,Newburg,,,84,2871
+3216,11,Black Hawk,,,84,2872
+3217,11,Aqua D,,,84,2873
+3218,11,Tamworth,,,84,2874
+3219,11,Green Mung Bean,,,85,2875
+3220,11,Black Mung Bean,,,85,2876
+3221,11,Yellow Mung Bean,,,85,2877
+3222,11,Golden Mung Bean,,,85,2878
+3223,11,Red Mung Bean,,,85,2879
+3224,11,Snow Pea Mung Bean,,,85,2880
+3225,11,Organic Mung Bean,,,85,2881
+3226,11,Sprouting Mung Bean,,,85,2882
+3227,11,Chana Mung,,,85,2883
+3228,11,Swarna Mung,,,85,2884
+3229,11,Vigna radiata,,,85,2885
+3230,9,Brazillian Cashew,,,86,2886
+3231,9,African Cashew,,,86,2887
+3232,9,Maharashtra Cashew,,,86,2888
+3233,9,Kardava Cashew,,,86,2889
+3234,9,Goa Cashew,,,86,2890
+3235,9,Balli Cashew,,,86,2891
+3236,9,Vengurla Cashew,,,86,2892
+3237,9,Tanzania Cashew,,,86,2893
+3238,9,Fazenda Cashew,,,86,2894
+3239,9,Cajueiro de Ginga,,,86,2895
+3240,9,Anacardium occidentale,,,86,2896
+3241,9,Dhana Cashew,,,86,2897
+3242,9,Surinam Cashew,,,86,2898
+3243,9,Kuwait Cashew,,,86,2899
+3244,9,Samba Cashew,,,86,2900
+3245,9,Biodynamic Cashew,,,86,2901
+3246,9,Rudra Cashew,,,86,2902
+3247,9,Kerman,,,87,2903
+3248,9,Peters,,,87,2904
+3249,9,Fandoghi,,,87,2905
+3250,9,Ohadi,,,87,2906
+3251,9,Red Aleppo,,,87,2907
+3252,9,Sirora,,,87,2908
+3253,9,Mateur,,,87,2909
+3254,9,Joley,,,87,2910
+3255,9,Akbari,,,87,2911
+3256,9,UCB 1,,,87,2912
+3257,9,Tadeh,,,87,2913
+3258,9,Sahand,,,87,2914
+3259,9,Aegean,,,87,2915
+3260,9,Larnaka,,,87,2916
+3261,9,Pistachio of Aegina,,,87,2917
+3262,9,California Jumbo,,,87,2918
+3263,9,Golden Hills,,,87,2919
+3264,9,Iraqi Pistachio,,,87,2920
+3265,9,Nutritional,,,87,2921
+3266,9,Kewan,,,87,2922
+3267,9,Sultan,,,87,2923
+3268,9,Kalamon,,,87,2924
+3269,9,Shah Pasand,,,87,2925
+3270,9,Black Pearl,,,87,2926
+3271,9,Chabouh,,,87,2927
+3272,9,Kandahar,,,87,2928
+3273,9,Burgundy,,,87,2929
+3274,9,Green Shell,,,87,2930
+3275,9,Pistacia vera,,,87,2931
+3276,9,Barcelona,,,88,2961
+3277,9,Tonda di Giffoni,,,88,2962
+3278,9,Corylus avellana,,,88,2963
+3279,9,Ennis,,,88,2964
+3280,9,Lewis,,,88,2965
+3282,9,Merveille de Bollwiller,,,88,2967
+3283,9,Lanzet,,,88,2968
+3284,9,Mortarella,,,88,2969
+3285,9,Royal,,,88,2970
+3286,9,Du Chilly,,,88,2971
+3287,9,Filbert,,,88,2972
+3288,9,J.H. Hale,,,88,2973
+3290,9,Pawnee,,,88,2974
+3291,9,Sultana,,,88,2975
+3292,9,Negret,,,88,2976
+3293,9,Halls Giant,,,88,2977
+3294,9,Cosford,,,88,2978
+3295,9,Zellernuss,,,88,2979
+3297,9,White Filbert,,,88,2981
+3298,9,Tombul,,,88,2982
+3299,9,Piedmont,,,88,2983
+3300,9,Barcini,,,88,2984
+3301,9,Tonda Gentile,,,88,2985
+3302,9,Burgundy,,,88,2986
+3303,9,Dixon,,,88,2987
+3304,9,Hanson,,,88,2988
+3305,9,Tartary Hazelnut,,,88,2989
+3306,9,Duke,,,88,2990
+3307,9,Yamhill,,,88,2991
+3308,9,Macadamia integrifolia (Most Common),,,89,2992
+3309,9,Macadamia tetraphylla,,,89,2993
+3310,9,Beaumont,,,89,2994
+3311,9,Hass,,,89,2995
+3312,9,Kona,,,89,2996
+3313,9,Nutcracker,,,89,2997
+3314,9,Ikaika,,,89,2998
+3315,9,Alaea,,,89,2999
+3316,9,Kona Sugarloaf,,,89,3000
+3317,9,Hawaiian,,,89,3001
+3318,9,Tropical,,,89,3002
+3319,9,Waimanalo,,,89,3003
+3320,9,Maui,,,89,3004
+3321,9,Daddow,,,89,3005
+3322,9,Giant,,,89,3006
+3323,9,Trembesi,,,89,3007
+3324,9,Hawaiian Macadamia,,,89,3008
+3325,9,Almond Joy,,,89,3009
+3326,9,Gold Nugget,,,89,3010
+3327,9,Rich,,,89,3011
+3328,9,Pounder,,,89,3012
+3329,9,Keanu,,,89,3013
+3330,9,Ethel,,,89,3014
+3331,9,Mache,,,89,3015
+3332,9,Kumukahi,,,89,3016
+3333,9,Bennett,,,89,3017
+3334,9,Tropics,,,89,3018
+3335,9,Moran,,,89,3019
+3336,9,Maroochy,,,89,3020
+3337,9,Dortmund,,,89,3021
+3338,9,Kona Blonde,,,89,3022
+3339,9,Richardson,,,89,3023
+3340,9,Fairchild,,,89,3024
+3341,9,Black Macadamia,,,89,3025
+3342,9,Morris,,,89,3026
+3343,9,Chad,,,89,3027
+3344,9,Kiawe,,,89,3028
+3345,9,Chiriqui,,,89,3029
+3346,9,Delicious,,,89,3030
+3347,9,Hukilau,,,89,3031
+3348,9,Kekela,,,89,3032
+3349,9,Mele,,,89,3033
+3350,9,Papua New Guinea,,,89,3034
+3351,9,American Chestnut,,,90,3035
+3352,9,Chinese Chestnut,,,90,3036
+3353,9,European Chestnut,,,90,3037
+3354,9,Japanese Chestnut,,,90,3038
+3355,9,Dunstan Chestnut,,,90,3039
+3356,9,Colossal Chestnut,,,90,3040
+3357,9,Bouche de Betizac,,,90,3041
+3358,9,Precoce Migoule,,,90,3042
+3359,9,Marigoule,,,90,3043
+3360,9,Nevada,,,90,3044
+3361,9,Lyon,,,90,3045
+3362,9,Pollenless Chestnut,,,90,3046
+3363,9,Silverleaf Chestnut,,,90,3047
+3364,9,Okei Chestnut,,,90,3048
+3365,9,Pechiney,,,90,3049
+3366,9,Maraval,,,90,3050
+3367,9,Marsol,,,90,3051
+3368,9,Layeroka,,,90,3052
+3369,9,Labor Day Chestnut,,,90,3053
+3370,9,Gilbert,,,90,3054
+3371,9,Lockwood Chestnut,,,90,3055
+3372,9,Nanking Chestnut,,,90,3056
+3373,9,Shingobee,,,90,3057
+3374,9,Belle Epine,,,90,3058
+3375,9,Champion Chestnut,,,90,3059
+3376,9,Peach Chestnut,,,90,3060
+3377,9,King Arthur Chestnut,,,90,3061
+3378,9,Ridgely Chestnut,,,90,3062
+3379,9,Meiling Chestnut,,,90,3063
+3380,9,Willamette Chestnut,,,90,3064
+3382,9,Prolific Chestnut,,,90,3065
+3383,9,Vilmorin Chestnut,,,90,3066
+3384,9,Chinquapin,,,90,3067
+3385,9,Chataigne,,,90,3068
+3386,9,Seguin Chestnut,,,90,3069
+3387,9,Szechenyi,,,90,3070
+3388,9,Les Petits Marrons,,,90,3071
+3389,9,Serrana,,,90,3072
+3390,28,MCol 22,,,91,3073
+3391,28,TME 419,,,91,3074
+3392,28,Bitter Cassava,,,91,3075
+3393,28,Sweet Cassava,,,91,3076
+3394,28,Manihot Esculenta,,,91,3077
+3395,28,BRA 383,,,91,3078
+3396,28,SM 909-25,,,91,3079
+3397,28,Rayong 60,,,91,3080
+3398,28,Rayong 9,,,91,3081
+3399,28,IITA-TMS-IBA011371,,,91,3082
+3400,28,KM 94,,,91,3083
+3401,28,TMS 30572,,,91,3084
+3402,28,TMS 98/0505,,,91,3085
+3403,28,NASE 14,,,91,3086
+3404,28,Oko-Iyawo,,,91,3087
+3405,28,Agria,,,91,3088
+3406,28,Mahin,,,91,3089
+3407,28,CR 36-5,,,91,3090
+3408,28,IAC 12,,,91,3091
+3409,28,Preta,,,91,3092
+3410,28,Arari,,,91,3093
+3411,28,Waxy Cassava,,,91,3094
+3412,28,Ezigbo,,,91,3095
+3413,28,MM96/1632,,,91,3096
+3414,28,Cacao,,,91,3097
+3415,28,Malayan Yellow,,,91,3098
+3416,28,Sawa Sawa,,,91,3099
+3417,28,Magana,,,91,3100
+3418,28,Nziva,,,91,3101
+3419,28,Bonoua,,,91,3102
+3420,28,Maniapamba,,,91,3103
+3421,28,Amachara,,,91,3104
+3422,28,Variegata,,,91,3105
+3423,28,IITA-TMS-IBA070593,,,91,3106
+3424,28,Common Ginger,,,92,3107
+3425,28,Yellow Ginger,,,92,3108
+3426,28,White Ginger,,,92,3109
+3427,28,Blue Hawaiian Ginger,,,92,3110
+3428,28,Zingiber Zerumbet,,,92,3111
+3429,28,Myoga Ginger,,,92,3112
+3430,28,Turmeric Ginger,,,92,3113
+3431,28,Galangal,,,92,3114
+3432,28,Bubba Baba Ginger,,,92,3115
+3433,28,Cardamom Ginger,,,92,3116
+3434,28,Wild Ginger,,,92,3117
+3435,28,Thai Ginger,,,92,3118
+3436,28,Mango Ginger,,,92,3119
+3437,28,White Turmeric,,,92,3120
+3438,28,Beehive Ginger,,,92,3121
+3439,28,Red Ginger,,,92,3122
+3440,28,Shell Ginger,,,92,3123
+3441,28,Kahili Ginger,,,92,3124
+3442,2,Ginger,,,92,0
+3443,17,Dill Weed,,,96,0
+3444,17,Common Sage,,,97,3139
+3445,17,Purple Sage,,,97,3140
+3446,17,Golden Sage,,,97,3141
+3447,17,Tricolor Sage,,,97,3142
+3448,17,Pineapple Sage,,,97,3143
+3449,17,Berggarten Sage,,,97,3144
+3450,17,Greek Sage,,,97,3145
+3451,17,Clary Sage,,,97,3146
+3452,17,White Sage,,,97,3147
+3453,17,Texas Sage,,,97,3148
+3454,17,Dwarf Sage,,,97,3149
+3455,17,Hungarian Sage,,,97,3150
+3456,17,Jerusalem Sage,,,97,3151
+3457,17,Mexican Bush Sage,,,97,3152
+3458,17,Azure Sage,,,97,3153
+3459,17,Slow Bolt Cilantro,,,98,3154
+3460,17,Santo Cilantro,,,98,3155
+3461,17,Calypso Cilantro,,,98,3156
+3462,17,Leisure Cilantro,,,98,3157
+3463,17,Cruiser Cilantro,,,98,3158
+3464,17,Caribe Cilantro,,,98,3159
+3465,17,Indian Summer Cilantro,,,98,3160
+3466,17,Confetti Cilantro,,,98,3161
+3467,17,Vietnamese Cilantro,,,98,3162
+3468,17,Moroccan Cilantro,,,98,3163
+3469,17,Santo Long Standing Cilantro,,,98,3164
+3470,17,Culantro,,,98,3165
+3471,13,Lavender Flowers,,,99,0
+3472,17,English Lavender,,,99,3166
+3473,17,French Lavender,,,99,3167
+3474,17,Spanish Lavender,,,99,3168
+3475,17,Grosso Lavender,,,99,3169
+3476,17,Munstead Lavender,,,99,3170
+3477,17,Hidcote Lavender,,,99,3171
+3478,17,Phenomenal Lavender,,,99,3172
+3479,17,Provence Lavender,,,99,3173
+3480,17,Lavandin,,,99,3174
+3481,17,Pink Lavender,,,99,3175
+3482,17,Silver Edge Lavender,,,99,3176
+3483,17,Anouk Lavender,,,99,3177
+3484,17,Edelweiss Lavender,,,99,3178
+3485,17,Goodwin Creek Lavender,,,99,3179
+3486,17,Royal Velvet Lavender,,,99,3180
+3487,17,Melissa Lavender,,,99,3181
+3488,17,Vera Lavender,,,99,3182
+3489,17,Dutch Lavender,,,99,3183
+3490,17,Fathead Lavender,,,99,3184
+3491,17,Little Lottie Lavender,,,99,3185
+3492,17,Blue Cushion Lavender,,,99,3186
+3493,2,Tellicherry Pepper,,,103,3187
+3494,2,Malabar Pepper,,,103,3188
+3495,2,Sarawak Pepper,,,103,3189
+3496,2,Lampong Pepper,,,103,3190
+3497,2,Vietnamese Black Pepper,,,103,3191
+3498,2,Brazilian Black Pepper,,,103,3192
+3499,2,Talamanca Black Pepper,,,103,3193
+3500,2,Penja Black Pepper,,,103,3194
+3501,2,Kampot Black Pepper,,,103,3195
+3502,2,Sri Lankan Black Pepper,,,103,3196
+3503,2,Madagascar Black Pepper,,,103,3197
+3504,2,Pondicherry Pepper,,,103,3198
+3505,2,Ecuadorian Black Pepper,,,103,3199
+3506,2,Organic Black Pepper,,,103,3200
+3507,2,White Black Pepper,,,103,3201
+3508,2,Indian Black Pepper,,,103,3202
+3509,2,Jamaican Black Pepper,,,103,3203
+3510,2,Vietnam Phu Quoc Pepper,,,103,3204
+3511,2,Muntok Black Pepper,,,103,3205
+3512,2,Ceylon Cinnamon,,,104,3206
+3513,2,Cassia Cinnamon,,,104,3207
+3514,2,Saigon Cinnamon,,,104,3208
+3515,2,Indonesian Cinnamon,,,104,3209
+3516,2,Chinese Cinnamon,,,104,3210
+3517,2,Korintje Cinnamon,,,104,3211
+3518,2,Malabar Cinnamon,,,104,3212
+3519,2,Royal Cinnamon,,,104,3213
+3520,2,Organic Ceylon Cinnamon,,,104,3214
+3521,2,Madagascar Cinnamon,,,104,3215
+3522,2,Burmese Cinnamon,,,104,3216
+3523,2,Wild Ceylon Cinnamon,,,104,3217
+3524,2,Java Cinnamon,,,104,3218
+3525,2,Indian Cinnamon,,,104,3219
+3526,2,Bourbon Vanilla,,,105,3220
+3527,2,Mexican Vanilla,,,105,3221
+3528,2,Tahitian Vanilla,,,105,3222
+3529,2,Indonesian Vanilla,,,105,3223
+3530,2,Ugandan Vanilla,,,105,3224
+3531,2,Indian Vanilla,,,105,3225
+3532,2,Venezuelan Vanilla,,,105,3226
+3533,2,Papua New Guinea Vanilla,,,105,3227
+3534,2,Wild Vanilla,,,105,3228
+3535,2,Madagascar Vanilla,,,105,3229
+3536,2,Philippine Vanilla,,,105,3230
+3537,2,Brazilian Vanilla,,,105,3231
+3538,2,Tonga Vanilla,,,105,3232
+3539,2,Organic Bourbon Vanilla,,,105,3233
+3540,2,Fijian Vanilla,,,105,3234
+3541,2,Gold Vanilla,,,105,3235
+3542,27,Vanilla Extract,,,105,0
+3543,14,Nori,,,109,3236
+3544,14,Kombu,,,109,3237
+3545,14,Wakame,,,109,3238
+3546,14,Dulse,,,109,3239
+3547,14,Irish Moss,,,109,3240
+3548,14,Sea Lettuce,,,109,3241
+3549,14,Hijiki,,,109,3242
+3550,14,Agar-Agar,,,109,3243
+3551,14,Arame,,,109,3244
+3552,14,Bladderwrack,,,109,3245
+3553,14,Ogonori,,,109,3246
+3554,14,Mozuku,,,109,3247
+3555,14,Alaria,,,109,3248
+3556,14,Chlorella,,,109,3249
+3557,14,Spirulina,,,109,3250
+3558,14,Red Seaweed,,,109,3251
+3559,14,Sea Grapes,,,109,3252
+3560,14,Gutweed,,,109,3253
+3561,14,Pepper Dulse,,,109,3254
+3562,14,Rockweed,,,109,3255
+3563,14,Laver,,,109,3256
+3564,14,Atlantic Wakame,,,109,3257
+3565,14,Sargassum,,,109,3258
+3566,14,Sea Spaghetti,,,109,3259
+3567,14,Mermaid’s Hair,,,109,3260
+3568,14,Codium,,,109,3261
+3569,14,Green Caviar,,,109,3262
+3570,14,Kelp,,,109,3263
+3571,14,Turkish Towel,,,109,3264
+3572,14,Ecklonia,,,109,3265
+3573,14,Giant Kelp,,,109,3266
+3574,14,Nutrient Seaweed Blend,,,109,3267
+3575,11,Arabica,,,110,3268
+3576,11,Robusta,,,110,3269
+3577,11,Liberica,,,110,3270
+3578,11,Excelsa,,,110,3271
+3579,11,Caturra,,,110,3272
+3580,11,Catuai,,,110,3273
+3581,11,Bourbon,,,110,3274
+3582,11,Paca,,,110,3275
+3583,11,Mundo Novo,,,110,3276
+3584,11,Typica,,,110,3277
+3585,11,Geisha,,,110,3278
+3586,11,Pacamara,,,110,3279
+3587,11,SL28,,,110,3280
+3588,11,SL34,,,110,3281
+3589,11,Kona,,,110,3282
+3590,11,Jamaican Blue Mountain,,,110,3283
+3591,11,Sumatra,,,110,3284
+3592,11,Yemen Mocha,,,110,3285
+3593,11,Brazilian Santos,,,110,3286
+3594,11,Tico,,,110,3287
+3595,11,Honduran,,,110,3288
+3596,11,Nicaraguan,,,110,3289
+3597,11,Ethiopian Yirgacheffe,,,110,3290
+3598,11,Peruvian,,,110,3291
+3599,11,Colombian,,,110,3292
+3600,11,Rwandan,,,110,3293
+3601,11,Guatemalan,,,110,3294
+3602,11,Vietnamese Robusta,,,110,3295
+3603,11,Kiburi,,,110,3296
+3604,11,Café de Olla,,,110,3297
+3605,11,Chicory,,,110,3298
+3606,11,Acaia,,,110,3299
+3607,11,Cascara,,,110,3300
+3608,11,Moka,,,110,3300
+3609,17,Chinese Green Tea,,,111,3302
+3610,17,Assam Tea,,,111,3303
+3611,17,Yunnan Large Leaf,,,111,3304
+3612,17,Lasiocalyx,,,111,3305
+3613,17,Cambodian Tea,,,111,3306
+3614,17,Dehong Tea,,,111,3307
+3615,17,Guizhou Tea,,,111,3308
+3616,17,Fuding White Tea,,,111,3309
+3617,17,Zhejiang Assam,,,111,3310
+3618,17,Taiwan Oolong,,,111,3311
+3619,29,Fennel Seed,,,116,0
+3620,7,Foeniculum vulgare,,,116,3406
+3621,7,Dulce,,,116,3407
+3622,7,azoricum,,,116,3408
+3623,7,Aazoricum,,,116,3409
+3624,7,Piperitum,,,116,3410
+3625,7,Purple Kohlrabi,,,117,3411
+3626,7,Green Kohlrabi,,,117,3412
+3627,7,White Kohlrabi,,,117,3413
+3628,7,Mega Green Kohlrabi,,,117,3414
+3629,7,Gigante Kohlrabi,,,117,3415
+3630,7,Baby Blue Kohlrabi,,,117,3416
+3631,7,Early White Kohlrabi,,,117,3417
+3632,7,White Vienna Kohlrabi,,,117,3418
+3633,7,Rainbow Swiss Chard,,,120,3419
+3634,7,Fordhook Giant Swiss Chard,,,120,3420
+3635,7,Bright Lights Swiss Chard,,,120,3421
+3636,7,Lucullus Swiss Chard,,,120,3422
+3637,7,Giant Swiss Chard,,,120,3423
+3638,7,White Swiss Chard,,,120,3424
+3639,7,Red Swiss Chard,,,120,3425
+3640,7,Green Swiss Chard,,,120,3426
+3641,9,Green Coconut,,,121,3427
+3643,9,Brown Coconut,,,121,3428
+3644,9,Dwarf Coconut,,,121,3429
+3645,9,Tall Coconut,,,121,3430
+3646,9,King Coconut,,,121,3431
+3647,9,Macapuno Coconut,,,121,3432
+3648,9,Malayan Dwarf Coconut,,,121,3433
+3649,9,Kopyor Coconut,,,121,3434
+3650,9,Samoan Coconut,,,121,3435
+3651,12,Purple Passion Fruit,,,122,3436
+3652,12,Yellow Passion Fruit,,,122,3437
+3653,12,Giant Granadilla,,,122,3438
+3654,12,Sweet Granadilla,,,122,3439
+3655,12,Banana Passion Fruit,,,122,3440
+3656,12,Passiflora edulis f. edulis,,,122,3441
+3657,12,Passiflora edulis f. flavicarpa,,,122,3442
+3658,12,Passiflora ligularis,,,122,3443
+3659,12,Passiflora maliformis,,,122,3444
+3660,12,Passiflora incarnata,,,122,3445
+3661,12,Passiflora caerulea,,,122,3446
+3662,12,Passiflora alata,,,122,3447
+3663,12,Passiflora quadrangularis,,,122,3448
+3664,12,Passiflora coccinea,,,122,3449
+3665,12,Passiflora mollissima,,,122,3450
+3666,8,Marionberry,,,123,3451
+3667,8,Boysenberry,,,123,3452
+3668,8,Loganberry,,,123,3453
+3669,8,Thornless Blackberry,,,123,3454
+3670,8,Chester Thornless,,,123,3455
+3671,8,Triple Crown,,,123,3456
+3672,8,Arapaho,,,123,3457
+3673,8,Apache,,,123,3458
+3674,8,Natchez,,,123,3459
+3675,8,Prime-Ark Freedom,,,123,3460
+3676,8,Ouachita,,,123,3461
+3677,8,Black Diamond,,,123,3462
+3678,8,Tayberry,,,123,3463
+3679,8,Brazos,,,123,3464
+3680,8,Evergreen,,,123,3465
+3681,8,Hull Thornless,,,123,3466
+3682,8,Kiowa,,,123,3467
+3683,8,Prime-Ark Traveler,,,123,3468
+3684,8,Columbia Star,,,123,3469
+3685,8,Navaho,,,123,3470
+3686,8,Wild Blackberry,,,123,3471
+3687,8,Himalayan Blackberry,,,123,3472
+3688,8,Heritage,,,124,3473
+3689,8,Fall Gold,,,124,3474
+3690,8,Caroline,,,124,3475
+3691,8,Blackcap,,,124,3476
+3692,8,Royalty,,,124,3477
+3693,8,Anne,,,124,3478
+3694,8,Jewel,,,124,3479
+3695,8,Polka,,,124,3480
+3696,8,Brandywine,,,124,3481
+3697,8,Tulameen,,,124,3482
+3698,8,Boyne,,,124,3483
+3699,8,Latham,,,124,3484
+3700,8,Nova,,,124,3485
+3701,8,Canby,,,124,3486
+3702,8,Cascade Delight,,,124,3487
+3703,8,Encore,,,124,3488
+3704,8,Meeker,,,124,3489
+3705,8,Bristol,,,124,3490
+3706,8,Raspberry Shortcake,,,124,3491
+3707,8,Lauren,,,124,3492
+3708,8,Golden Everest,,,124,3493
+3709,8,Ruby,,,124,3494
+3710,8,Amity,,,124,3495
+3711,8,September,,,124,3496
+3712,8,Heritage Yellow,,,124,3497
+3713,8,Killarney,,,124,3498
+3714,8,Autumn Bliss,,,124,3499
+3715,8,Sunshine,,,124,3500
+3716,8,Double Gold,,,124,3501
+3717,8,Munger,,,124,3502
+3718,8,Allen,,,124,3503
+3719,8,Allen,,,124,3503
+3720,12,Arkin,,,125,3504
+3721,12,Fwang Tung,,,125,3505
+3722,12,Sri Kembangan,,,125,3506
+3723,12,Kari,,,125,3507
+3724,12,Golden Star,,,125,3508
+3725,12,Dah Pon,,,125,3509
+3726,12,B-17,,,125,3510
+3727,12,Hart,,,125,3511
+3728,12,Wheeler,,,125,3512
+3729,12,Bell,,,125,3513
+3730,12,Maher Dwarf,,,125,3514
+3731,12,Newcombe,,,125,3515
+3732,12,Thayer,,,125,3516
+3733,12,Star King,,,125,3517
+3734,12,Hoku,,,125,3518
+3735,12,Cheng Chui,,,125,3519
+3736,12,Giant Siam,,,125,3520
+3737,12,Bali,,,125,3521
+3738,12,Honey Dew,,,125,3522
+3739,12,Taiwan Giant,,,125,3523
+3740,9,Stone Pine (Pinus pinea),,,133,3524
+3741,9,Korean Pine,,,133,3525
+3742,9,Siberian Pine,,,133,3526
+3743,9,Chinese White Pine,,,133,3527
+3744,9,Chilgoza Pine,,,133,3528
+3745,9,"Single-leaf Pinyon ",,,133,3529
+3746,9,"Colorado Pinyon ",,,133,3530
+3747,9,Mexican Pinyon,,,133,3531
+3748,9,Lacebark Pine,,,133,3532
+3749,9,Torrey Pine,,,133,3533
+3750,9,Pinyon Pine,,,133,3534
+3751,9,Jeffrey Pine,,,133,3535
+3752,9,Sugar Pine,,,133,3536
+3753,9,Foxtail Pine,,,133,3537
+3754,9,Parry Pinyon,,,133,3538
+3755,28,Hollow Crown,,,135,3539
+3756,28,Gladiator,,,135,3540
+3757,28,Javelin,,,135,3541
+3758,28,White Gem,,,135,3542
+3759,28,Albion,,,135,3543
+3760,28,Lancer,,,135,3544
+3761,28,Andover,,,135,3545
+3762,28,Turga,,,135,3546
+3763,28,Avonresister,,,135,3547
+3764,28,Tender and True,,,135,3548
+3765,28,Countess,,,135,3549
+3766,28,Cobham Improved Marrow,,,135,3550
+3767,28,Student,,,135,3551
+3768,28,Halblange Weiße,,,135,3552
+3769,28,Duchess,,,135,3553
+3770,28,Berliner Halblange,,,135,3554
+3771,28,Guernsey,,,135,3555
+3772,28,Arrow,,,135,3556
+3773,28,Imperial Crown,,,135,3557
+3774,29,Chia Seeds,,,136,0
+3775,7,Yellow Onion,,,162,3611
+3776,7,Red Onion,,,162,3612
+3777,7,White Onion,,,162,3613
+3778,7,Sweet Onion,,,162,3614
+3779,7,Green Onion (Scallion),,,162,3615
+3780,7,Shallot,,,162,3616
+3781,7,Spring Onion,,,162,3617
+3782,7,Bermuda Onion,,,162,3618
+3783,7,Pearl Onion,,,162,3619
+3784,7,Cipollini Onion,,,162,3620
+3785,7,Egyptian Walking Onion,,,162,3621
+3786,7,Texas 1015 Onion,,,162,3622
+3787,7,Softneck Garlic,,,163,3623
+3788,7,Hardneck Garlic,,,163,3624
+3789,7,Elephant Garlic,,,163,3625
+3790,7,Creole Garlic,,,163,3626
+3791,7,Purple Stripe Garlic,,,163,3627
+3792,7,Porcelain Garlic,,,163,3628
+3793,7,Asiatic Garlic,,,163,3629
+3794,7,Western White Garlic,,,163,3630
+3795,7,Black Garlic,,,163,3631
+3796,7,Italian Garlic,,,163,3632
+3797,7,Stinking Rose Garlic,,,163,3633
+3798,30,Sea Buckthorn Oil,,,164,0
+3799,31,Sea Buckthorn Juice,,,164,0
+3800,32,Sea Buckthorn Powder,,,164,0
+3801,8,Common Sea Buckthorn,,,164,3634
+3802,8,Willow-Leaved Sea Buckthorn,,,164,3635
+3803,8,Tibetan Sea Buckthorn,,,164,3636
+3804,8,Sweet Sea Buckthorn,,,164,3637
+3805,8,Mountain Sea Buckthorn,,,164,3638
+3806,8,Mandshurian Sea Buckthorn,,,164,3639
+3807,8,Caucasian Sea Buckthorn,,,164,3640
+3808,8,Pyriform Sea Buckthorn,,,164,3641
+3809,5,Oberkulmer Spelt,,,165,3642
+3810,5,Schwabenkorn Spelt,,,165,3643
+3811,5,Frankenkorn Spelt,,,165,3644
+3812,5,Rouquin Spelt,,,165,3645
+3813,5,Dinkel Spelt,,,165,3646
+3814,5,Nordspelt Spelt,,,165,3647
+3815,5,Blue Spelt,,,165,3648
+3816,5,Black Forest Spelt,,,165,3649
+3817,5,Rouge de Bordeaux Spelt,,,165,3650
+3818,5,Red Spelt,,,165,3651
+3819,17,Common Chervil,,,167,3652
+3820,17,Curly Chervil,,,167,3653
+3821,17,French Chervil,,,167,3654
+3822,17,Wild Chervil,,,167,3655
+3823,17,Winter Chervil,,,167,3656
+3824,17,Brussels Winter Chervil,,,167,3657
+3825,17,Hamburg Chervil,,,167,3658
+3826,11,Windsor,,,168,3659
+3827,11,Aquadulce,,,168,3660
+3828,11,Sweet Lorane,,,168,3661
+3829,11,Broad Windsor,,,168,3662
+3830,11,Sweet Lorraine,,,168,3663
+3831,11,Bell Bean,,,168,3664
+3832,11,Crimson Flowered,,,168,3665
+3833,11,Negreta,,,168,3666
+3834,11,Extra Precoce A Grano Violetto,,,168,3667
+3835,11,Ianto’s Return,,,168,3668
+3836,11,Leidse Hangdown,,,168,3669
+3837,11,Robin Hood,,,168,3670
+3838,11,Dreadnought,,,168,3671
+3839,11,Perla,,,168,3672
+3840,12,Nagami,,,168,3673
+3841,12,Meiwa,,,168,3674
+3842,12,Marumi,,,168,3675
+3843,12,Hong Kong Wild,,,168,3676
+3844,12,Fukushu,,,168,3677
+3845,12,Centennial Variegated,,,168,3678
+3846,12,Jiangsu,,,168,3679
+3847,12,Nordmann Seedless,,,168,3680
+3848,31,Tangerine Juice,,,170,0
+3849,12,Dancy,,,170,3681
+3850,12,Honey,,,170,3682
+3851,12,Fairchild,,,170,3683
+3852,12,Clementine,,,170,3684
+3853,12,Minneola,,,170,3685
+3854,12,Satsuma,,,170,3686
+3855,12,Sunburst,,,170,3687
+3856,12,Kinnow,,,170,3688
+3857,12,Ponkan,,,170,3689
+3858,12,Encore,,,170,3690
+3859,12,Yosemite Gold,,,170,3691
+3860,12,Page,,,170,3692
+3861,12,Ortanique,,,170,3693
+3862,12,Nova,,,170,3694
+3863,28,Stampede,,,136,3695
+3864,28,White Fuseau,,,136,3696
+3865,28,Red Fuseau,,,136,3697
+3866,28,Mammoth French White,,,136,3698
+3867,28,Dwarf Sunray,,,136,3699
+3868,28,Violet de Rennes,,,136,3600
+3869,28,Golden Nugget,,,136,3601
+3870,28,Bianca,,,136,3602
+3871,28,Skorospelka,,,136,3603
+3872,28,Brazilian White,,,136,3604
+3873,28,Early White,,,136,3605
+3874,28,Purple Skinned,,,136,3606
+3875,28,Topstar,,,136,3607
+3876,30,Sesame Oil,,,171,3607
+3877,29,White Sesame,,,171,3608
+3878,29,Black Sesame,,,171,3609
+3879,29,Brown Sesame,,,171,3610
+3880,29,Golden Sesame,,,171,3611
+3881,29,Red Sesame,,,171,3612
+3882,29,Hulled White Sesame,,,171,3613
+3883,29,Unhulled Sesame,,,171,3614
+3884,29,Organic Sesame,,,171,3615
+3885,29,Sesamum Indicum,,,171,3616
+3886,29,Nigerian Brown Sesame,,,171,3617
+3887,29,Ethiopian White Humera,,,171,3618
+3888,29,Indian White Til,,,171,3619
+3889,29,Sudanese Sesame,,,171,3620
+3890,29,Egyptian Sesame,,,171,3621
+3891,29,Asian Black Sesame,,,171,3622
+3892,29,Latvian Black Sesame,,,171,3623
+3893,29,Roasted White Sesame,,,171,3624
+3894,29,Tanzania White Sesame,,,171,3625
+3895,29,Hybrid Sesame,,,171,3626
+3896,28,Chinese Lotus Root,,,172,3627
+3897,28,Indian Lotus Root,,,172,3628
+3898,28,Japanese Lotus Root,,,172,3629
+3899,28,Vietnamese Pink Lotus Root,,,172,3630
+3900,28,Thai Lotus Root,,,172,3631
+3901,28,Egyptian Lotus Root,,,172,3632
+3902,28,Korean Lotus Root,,,172,3633
+3903,28,Bitter Lotus Root,,,172,3634
+3904,28,Hybrid Lotus Root,,,172,3635
+3905,28,Giant Lotus Root,,,172,3636
+3906,28,Red Stem Lotus Root,,,172,3637
+3907,28,Sacred Lotus Root,,,172,3638
+3908,28,Asian White Lotus Root,,,172,3639
+3909,28,Golden Lotus Root,,,172,3640
+3910,28,Wild Lotus Root,,,172,3641
+3911,7,Golden Purslane,,,173,3642
+3912,7,Green Purslane,,,173,3643
+3913,7,Garden Purslane,,,173,3644
+3914,7,Wild Purslane,,,173,3645
+3915,7,Red Purslane,,,173,3646
+3916,7,Golden Leaf Purslane,,,173,3647
+3917,7,Large Leaf Purslane,,,173,3648
+3918,7,French Purslane,,,173,3649
+3919,7,Winter Purslane,,,173,3650
+3920,7,Prostrate Purslane,,,173,3651
+3921,7,Hairy Purslane,,,173,3652
+3922,7,Summer Purslane,,,173,3653
+3923,7,Japanese Purslane,,,173,3654
+3924,7,Pussley Purslane,,,173,3655
+3925,7,Southern Giant Curled Mustard,,,175,3651
+3926,7,Tendergreen Mustard,,,175,3652
+3927,7,Japanese Mustard Greens (Komatsuna),,,175,3763
+3928,7,Giant Red Mustard,,,175,3764
+3929,7,Green Wave Mustard,,,175,3765
+3930,7,Mustard Spinach,,,175,3766
+3931,7,Red Giant Mustard,,,175,3767
+3932,7,Osaka Purple Mustard,,,175,3768
+3933,7,Wasabi Mustard,,,175,3769
+3935,11,Fordhook 242,,,176,3770
+3936,11,Butterbean,,,176,3771
+3937,11,Henderson,,,176,3772
+3938,11,Baby Lima,,,176,3773
+3939,11,King of the Garden,,,176,3774
+3940,11,Jackson Wonder,,,176,3775
+3941,11,Large White Lima,,,176,3776
+3942,11,Green Butterbean,,,176,3777
+3943,11,Virginia,,,176,3778
+3944,11,Christmas Lima,,,176,3779
+3945,8,Early Black,,,177,3780
+3946,8,Ben Lear,,,177,3781
+3947,8,Howes,,,177,3782
+3948,8,McFarlin,,,177,3783
+3949,8,Searles,,,177,3784
+3950,8,Crimson Queen,,,177,3785
+3951,8,Wild Cranberry,,,177,3786
+3952,8,Burgundy,,,177,3787
+3953,8,Pioneer,,,177,3788
+3954,8,Stevens,,,177,3789
+3955,12,Soursop,,,178,0
+3956,12,Purple Mangosteen,,,179,3798
+3957,12,Tropical Mangosteen,,,179,3799
+3958,12,Cambodian Mangosteen,,,179,3800
+3959,12,Thai Mangosteen,,,179,3801
+3960,12,Siamese Mangosteen,,,179,3802
+3961,12,Giant Mangosteen,,,179,3803
+3962,12,Mini Mangosteen,,,179,3804

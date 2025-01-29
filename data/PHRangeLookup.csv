@@ -1,0 +1,10 @@
+PHRangeID,PHRange,SoilType,Description
+1,< 5.0,Very Strongly Acidic,"Extremely acidic, often found in marshy or waterlogged areas."
+2,5.1 - 5.5,Strongly Acidic,"Highly acidic, nutrient availability may be reduced."
+3,5.6 - 6.0,Moderately Acidic,"Many nutrients remain available, good for certain crops."
+4,6.1 - 6.5,Slightly Acidic,"Ideal for most plants, especially in loamy soils."
+5,6.6 - 7.3,Neutral,"Optimal for a wide range of plants, nutrient availability is high."
+6,7.4 - 7.8,Slightly Alkaline,"Mildly alkaline, may reduce the availability of some nutrients."
+7,7.9 - 8.4,Moderately Alkaline,"High alkalinity, nutrients like iron, zinc, and phosphorus may be less available."
+8,8.5 - 9.0,Strongly Alkaline,"Very alkaline, difficult for most plants to absorb nutrients."
+9,> 9.0,Very Strongly Alkaline,"Extremely alkaline, toxic for most plants."

@@ -1,0 +1,6 @@
+HumidityID,HumidityLevelLow,HumidityLevelHigh,Classification,Description,ImpactonPlants
+1,0,30,Very Low,"Dry air, often found in arid regions or during winter months.","Can cause stress on plants, leading to wilting, leaf drop, and poor growth. Increased water evaporation."
+2,30,50,Low,"Somewhat dry, common in transitional climates.",Moderate stress for moisture-sensitive plants; may require supplemental irrigation.
+3,50,70,Moderate,Comfortable for most plants; typical for temperate regions.,Generally ideal for most crops and plants; supports healthy growth and development.
+4,70,90,High,"Humid conditions, often found in tropical climates.","Can lead to excessive moisture, promoting diseases like mildew and root rot; may benefit certain moisture-loving plants."
+5,90,100,Very High,Extremely humid; often found in rainforests or during summer storms.,"High risk of fungal diseases; some plants thrive, but most require careful management to prevent rot."
