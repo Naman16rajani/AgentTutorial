@@ -22,7 +22,6 @@ def get_weather(city: str):
     """Returns the weather information of given city"""
     
     base_url = "http://api.openweathermap.org/data/2.5/weather"
-    WEATHER_API_KEY = "817da70bd0b37a805ad485730f2e6aec"
 
     if not WEATHER_API_KEY:
         return "Weather API key is not set. Please check your environment variables."
